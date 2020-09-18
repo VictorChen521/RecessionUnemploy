@@ -1,0 +1,201 @@
+"","DATE","Period","Industry","Employment"
+"1","2007-12-01","Financial","Construction",0
+"2","2008-01-01","Financial","Construction",-14
+"3","2008-02-01","Financial","Construction",-37
+"4","2008-03-01","Financial","Construction",-84
+"5","2008-04-01","Financial","Construction",-163
+"6","2008-05-01","Financial","Construction",-216
+"7","2008-06-01","Financial","Construction",-277
+"8","2008-07-01","Financial","Construction",-330
+"9","2008-08-01","Financial","Construction",-376
+"10","2008-09-01","Financial","Construction",-446
+"11","2008-10-01","Financial","Construction",-523
+"12","2008-11-01","Financial","Construction",-677
+"13","2008-12-01","Financial","Construction",-789
+"14","2009-01-01","Financial","Construction",-923
+"15","2009-02-01","Financial","Construction",-1044
+"16","2009-03-01","Financial","Construction",-1199
+"17","2009-04-01","Financial","Construction",-1336
+"18","2009-05-01","Financial","Construction",-1390
+"19","2009-06-01","Financial","Construction",-1480
+"20","2020-02-01","Covid","Construction",0
+"21","2020-03-01","Covid","Construction",-65
+"22","2020-04-01","Covid","Construction",-1083
+"23","2020-05-01","Covid","Construction",-627
+"24","2020-06-01","Covid","Construction",-464
+"25","2020-07-01","Covid","Construction",-444
+"26","2007-12-01","Financial","Manufacturing",0
+"27","2008-01-01","Financial","Manufacturing",-21
+"28","2008-02-01","Financial","Manufacturing",-50
+"29","2008-03-01","Financial","Manufacturing",-87
+"30","2008-04-01","Financial","Manufacturing",-147
+"31","2008-05-01","Financial","Manufacturing",-182
+"32","2008-06-01","Financial","Manufacturing",-242
+"33","2008-07-01","Financial","Manufacturing",-316
+"34","2008-08-01","Financial","Manufacturing",-388
+"35","2008-09-01","Financial","Manufacturing",-471
+"36","2008-10-01","Financial","Manufacturing",-599
+"37","2008-11-01","Financial","Manufacturing",-712
+"38","2008-12-01","Financial","Manufacturing",-896
+"39","2009-01-01","Financial","Manufacturing",-1185
+"40","2009-02-01","Financial","Manufacturing",-1366
+"41","2009-03-01","Financial","Manufacturing",-1538
+"42","2009-04-01","Financial","Manufacturing",-1716
+"43","2009-05-01","Financial","Manufacturing",-1884
+"44","2009-06-01","Financial","Manufacturing",-2020
+"45","2020-02-01","Covid","Manufacturing",0
+"46","2020-03-01","Covid","Manufacturing",-46
+"47","2020-04-01","Covid","Manufacturing",-1363
+"48","2020-05-01","Covid","Manufacturing",-1123
+"49","2020-06-01","Covid","Manufacturing",-766
+"50","2020-07-01","Covid","Manufacturing",-740
+"51","2007-12-01","Financial","Trade, transportation, and utilities",0
+"52","2008-01-01","Financial","Trade, transportation, and utilities",-10
+"53","2008-02-01","Financial","Trade, transportation, and utilities",-57
+"54","2008-03-01","Financial","Trade, transportation, and utilities",-59
+"55","2008-04-01","Financial","Trade, transportation, and utilities",-177
+"56","2008-05-01","Financial","Trade, transportation, and utilities",-256
+"57","2008-06-01","Financial","Trade, transportation, and utilities",-317
+"58","2008-07-01","Financial","Trade, transportation, and utilities",-377
+"59","2008-08-01","Financial","Trade, transportation, and utilities",-474
+"60","2008-09-01","Financial","Trade, transportation, and utilities",-592
+"61","2008-10-01","Financial","Trade, transportation, and utilities",-722
+"62","2008-11-01","Financial","Trade, transportation, and utilities",-909
+"63","2008-12-01","Financial","Trade, transportation, and utilities",-1089
+"64","2009-01-01","Financial","Trade, transportation, and utilities",-1225
+"65","2009-02-01","Financial","Trade, transportation, and utilities",-1372
+"66","2009-03-01","Financial","Trade, transportation, and utilities",-1517
+"67","2009-04-01","Financial","Trade, transportation, and utilities",-1698
+"68","2009-05-01","Financial","Trade, transportation, and utilities",-1747
+"69","2009-06-01","Financial","Trade, transportation, and utilities",-1805
+"70","2020-02-01","Covid","Trade, transportation, and utilities",0
+"71","2020-03-01","Covid","Trade, transportation, and utilities",-107
+"72","2020-04-01","Covid","Trade, transportation, and utilities",-3355
+"73","2020-05-01","Covid","Trade, transportation, and utilities",-2972
+"74","2020-06-01","Covid","Trade, transportation, and utilities",-1998
+"75","2020-07-01","Covid","Trade, transportation, and utilities",-1707
+"76","2007-12-01","Financial","Financial activities",0
+"77","2008-01-01","Financial","Financial activities",-5
+"78","2008-02-01","Financial","Financial activities",-14
+"79","2008-03-01","Financial","Financial activities",-15
+"80","2008-04-01","Financial","Financial activities",-26
+"81","2008-05-01","Financial","Financial activities",-34
+"82","2008-06-01","Financial","Financial activities",-46
+"83","2008-07-01","Financial","Financial activities",-63
+"84","2008-08-01","Financial","Financial activities",-77
+"85","2008-09-01","Financial","Financial activities",-110
+"86","2008-10-01","Financial","Financial activities",-143
+"87","2008-11-01","Financial","Financial activities",-180
+"88","2008-12-01","Financial","Financial activities",-212
+"89","2009-01-01","Financial","Financial activities",-265
+"90","2009-02-01","Financial","Financial activities",-314
+"91","2009-03-01","Financial","Financial activities",-355
+"92","2009-04-01","Financial","Financial activities",-412
+"93","2009-05-01","Financial","Financial activities",-438
+"94","2009-06-01","Financial","Financial activities",-462
+"95","2020-02-01","Covid","Financial activities",0
+"96","2020-03-01","Covid","Financial activities",-18
+"97","2020-04-01","Covid","Financial activities",-279
+"98","2020-05-01","Covid","Financial activities",-260
+"99","2020-06-01","Covid","Financial activities",-237
+"100","2020-07-01","Covid","Financial activities",-216
+"101","2007-12-01","Financial","Professional and business services",0
+"102","2008-01-01","Financial","Professional and business services",-10
+"103","2008-02-01","Financial","Professional and business services",-58
+"104","2008-03-01","Financial","Professional and business services",-99
+"105","2008-04-01","Financial","Professional and business services",-108
+"106","2008-05-01","Financial","Professional and business services",-168
+"107","2008-06-01","Financial","Professional and business services",-208
+"108","2008-07-01","Financial","Professional and business services",-269
+"109","2008-08-01","Financial","Professional and business services",-333
+"110","2008-09-01","Financial","Professional and business services",-404
+"111","2008-10-01","Financial","Professional and business services",-514
+"112","2008-11-01","Financial","Professional and business services",-684
+"113","2008-12-01","Financial","Professional and business services",-817
+"114","2009-01-01","Financial","Professional and business services",-972
+"115","2009-02-01","Financial","Professional and business services",-1168
+"116","2009-03-01","Financial","Professional and business services",-1317
+"117","2009-04-01","Financial","Professional and business services",-1452
+"118","2009-05-01","Financial","Professional and business services",-1502
+"119","2009-06-01","Financial","Professional and business services",-1607
+"120","2020-02-01","Covid","Professional and business services",0
+"121","2020-03-01","Covid","Professional and business services",-94
+"122","2020-04-01","Covid","Professional and business services",-2296
+"123","2020-05-01","Covid","Professional and business services",-2136
+"124","2020-06-01","Covid","Professional and business services",-1818
+"125","2020-07-01","Covid","Professional and business services",-1648
+"126","2007-12-01","Financial","Leisure and hospitality",0
+"127","2008-01-01","Financial","Leisure and hospitality",-8
+"128","2008-02-01","Financial","Leisure and hospitality",-7
+"129","2008-03-01","Financial","Leisure and hospitality",-19
+"130","2008-04-01","Financial","Leisure and hospitality",-39
+"131","2008-05-01","Financial","Leisure and hospitality",-52
+"132","2008-06-01","Financial","Leisure and hospitality",-68
+"133","2008-07-01","Financial","Leisure and hospitality",-87
+"134","2008-08-01","Financial","Leisure and hospitality",-119
+"135","2008-09-01","Financial","Leisure and hospitality",-171
+"136","2008-10-01","Financial","Leisure and hospitality",-198
+"137","2008-11-01","Financial","Leisure and hospitality",-250
+"138","2008-12-01","Financial","Leisure and hospitality",-294
+"139","2009-01-01","Financial","Leisure and hospitality",-328
+"140","2009-02-01","Financial","Leisure and hospitality",-357
+"141","2009-03-01","Financial","Leisure and hospitality",-423
+"142","2009-04-01","Financial","Leisure and hospitality",-494
+"143","2009-05-01","Financial","Leisure and hospitality",-444
+"144","2009-06-01","Financial","Leisure and hospitality",-474
+"145","2020-02-01","Covid","Leisure and hospitality",0
+"146","2020-03-01","Covid","Leisure and hospitality",-743
+"147","2020-04-01","Covid","Leisure and hospitality",-8318
+"148","2020-05-01","Covid","Leisure and hospitality",-6913
+"149","2020-06-01","Covid","Leisure and hospitality",-4932
+"150","2020-07-01","Covid","Leisure and hospitality",-4340
+"151","2007-12-01","Financial","Education and health services",0
+"152","2008-01-01","Financial","Education and health services",54
+"153","2008-02-01","Financial","Education and health services",94
+"154","2008-03-01","Financial","Education and health services",144
+"155","2008-04-01","Financial","Education and health services",202
+"156","2008-05-01","Financial","Education and health services",242
+"157","2008-06-01","Financial","Education and health services",300
+"158","2008-07-01","Financial","Education and health services",351
+"159","2008-08-01","Financial","Education and health services",413
+"160","2008-09-01","Financial","Education and health services",419
+"161","2008-10-01","Financial","Education and health services",439
+"162","2008-11-01","Financial","Education and health services",477
+"163","2008-12-01","Financial","Education and health services",518
+"164","2009-01-01","Financial","Education and health services",558
+"165","2009-02-01","Financial","Education and health services",583
+"166","2009-03-01","Financial","Education and health services",590
+"167","2009-04-01","Financial","Education and health services",597
+"168","2009-05-01","Financial","Education and health services",658
+"169","2009-06-01","Financial","Education and health services",690
+"170","2020-02-01","Covid","Education and health services",0
+"171","2020-03-01","Covid","Education and health services",-178
+"172","2020-04-01","Covid","Education and health services",-2781
+"173","2020-05-01","Covid","Education and health services",-2393
+"174","2020-06-01","Covid","Education and health services",-1826
+"175","2020-07-01","Covid","Education and health services",-1611
+"176","2007-12-01","Financial","Government",0
+"177","2008-01-01","Financial","Government",12
+"178","2008-02-01","Financial","Government",41
+"179","2008-03-01","Financial","Government",67
+"180","2008-04-01","Financial","Government",74
+"181","2008-05-01","Financial","Government",107
+"182","2008-06-01","Financial","Government",141
+"183","2008-07-01","Financial","Government",192
+"184","2008-08-01","Financial","Government",191
+"185","2008-09-01","Financial","Government",161
+"186","2008-10-01","Financial","Government",173
+"187","2008-11-01","Financial","Government",184
+"188","2008-12-01","Financial","Government",180
+"189","2009-01-01","Financial","Government",203
+"190","2009-02-01","Financial","Government",200
+"191","2009-03-01","Financial","Government",184
+"192","2009-04-01","Financial","Government",301
+"193","2009-05-01","Financial","Government",241
+"194","2009-06-01","Financial","Government",200
+"195","2020-02-01","Covid","Government",0
+"196","2020-03-01","Covid","Government",-17
+"197","2020-04-01","Covid","Government",-969
+"198","2020-05-01","Covid","Government",-1480
+"199","2020-06-01","Covid","Government",-1426
+"200","2020-07-01","Covid","Government",-1125

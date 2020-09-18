@@ -1,0 +1,2121 @@
+"","State","Industry","Code","Month","Change"
+"1","Alabama","Construction","AL","Mar",-1
+"2","Alaska","Construction","AK","Mar",0
+"3","Arizona","Construction","AZ","Mar",-2
+"4","Arkansas","Construction","AR","Mar",0
+"5","California","Construction","CA","Mar",-19
+"6","Colorado","Construction","CO","Mar",-1
+"7","Connecticut","Construction","CT","Mar",0
+"8","Delaware","Construction","DE","Mar",0
+"9","District of Columbia","Construction","DC","Mar",0
+"10","Florida","Construction","FL","Mar",-2
+"11","Georgia","Construction","GA","Mar",0
+"12","Hawaii","Construction","HI","Mar",0
+"13","Idaho","Construction","ID","Mar",1
+"14","Illinois","Construction","IL","Mar",-4
+"15","Indiana","Construction","IN","Mar",-3
+"16","Iowa","Construction","IA","Mar",-1
+"17","Kansas","Construction","KS","Mar",0
+"18","Kentucky","Construction","KY","Mar",0
+"19","Louisiana","Construction","LA","Mar",-3
+"20","Maine","Construction","ME","Mar",0
+"21","Maryland","Construction","MD","Mar",0
+"22","Massachusetts","Construction","MA","Mar",-1
+"23","Michigan","Construction","MI","Mar",-4
+"24","Minnesota","Construction","MN","Mar",-1
+"25","Mississippi","Construction","MS","Mar",-1
+"26","Missouri","Construction","MO","Mar",-2
+"27","Montana","Construction","MT","Mar",0
+"28","Nebraska","Construction","NE","Mar",0
+"29","Nevada","Construction","NV","Mar",4
+"30","New Hampshire","Construction","NH","Mar",0
+"31","New Jersey","Construction","NJ","Mar",-1
+"32","New Mexico","Construction","NM","Mar",1
+"33","New York","Construction","NY","Mar",-4
+"34","North Carolina","Construction","NC","Mar",0
+"35","North Dakota","Construction","ND","Mar",-1
+"36","Ohio","Construction","OH","Mar",-2
+"37","Oklahoma","Construction","OK","Mar",0
+"38","Oregon","Construction","OR","Mar",1
+"39","Pennsylvania","Construction","PA","Mar",-6
+"40","Puerto Rico","Construction",NA,"Mar",-1
+"41","Rhode Island","Construction","RI","Mar",0
+"42","South Carolina","Construction","SC","Mar",-1
+"43","South Dakota","Construction","SD","Mar",1
+"44","Tennessee","Construction","TN","Mar",1
+"45","Texas","Construction","TX","Mar",-5
+"46","Utah","Construction","UT","Mar",-1
+"47","Vermont","Construction","VT","Mar",0
+"48","Virgin Islands","Construction",NA,"Mar",0
+"49","Virginia","Construction","VA","Mar",-1
+"50","Washington","Construction","WA","Mar",3
+"51","West Virginia","Construction","WV","Mar",0
+"52","Wisconsin","Construction","WI","Mar",1
+"53","Wyoming","Construction","WY","Mar",0
+"54","Alabama","Construction","AL","Apr",-5
+"55","Alaska","Construction","AK","Apr",-3
+"56","Arizona","Construction","AZ","Apr",-4
+"57","Arkansas","Construction","AR","Apr",-1
+"58","California","Construction","CA","Apr",-132
+"59","Colorado","Construction","CO","Apr",-13
+"60","Connecticut","Construction","CT","Apr",-10
+"61","Delaware","Construction","DE","Apr",-2
+"62","District of Columbia","Construction","DC","Apr",-1
+"63","Florida","Construction","FL","Apr",-23
+"64","Georgia","Construction","GA","Apr",-12
+"65","Hawaii","Construction","HI","Apr",-1
+"66","Idaho","Construction","ID","Apr",-3
+"67","Illinois","Construction","IL","Apr",-22
+"68","Indiana","Construction","IN","Apr",-16
+"69","Iowa","Construction","IA","Apr",-7
+"70","Kansas","Construction","KS","Apr",-6
+"71","Kentucky","Construction","KY","Apr",-7
+"72","Louisiana","Construction","LA","Apr",-16
+"73","Maine","Construction","ME","Apr",-2
+"74","Maryland","Construction","MD","Apr",-14
+"75","Massachusetts","Construction","MA","Apr",-60
+"76","Michigan","Construction","MI","Apr",-78
+"77","Minnesota","Construction","MN","Apr",-11
+"78","Mississippi","Construction","MS","Apr",-1
+"79","Missouri","Construction","MO","Apr",-11
+"80","Montana","Construction","MT","Apr",-1
+"81","Nebraska","Construction","NE","Apr",-1
+"82","Nevada","Construction","NV","Apr",-7
+"83","New Hampshire","Construction","NH","Apr",-3
+"84","New Jersey","Construction","NJ","Apr",-44
+"85","New Mexico","Construction","NM","Apr",-5
+"86","New York","Construction","NY","Apr",-166
+"87","North Carolina","Construction","NC","Apr",-13
+"88","North Dakota","Construction","ND","Apr",-1
+"89","Ohio","Construction","OH","Apr",-39
+"90","Oklahoma","Construction","OK","Apr",-5
+"91","Oregon","Construction","OR","Apr",-12
+"92","Pennsylvania","Construction","PA","Apr",-101
+"93","Puerto Rico","Construction",NA,"Apr",-7
+"94","Rhode Island","Construction","RI","Apr",-3
+"95","South Carolina","Construction","SC","Apr",-6
+"96","South Dakota","Construction","SD","Apr",0
+"97","Tennessee","Construction","TN","Apr",-4
+"98","Texas","Construction","TX","Apr",-63
+"99","Utah","Construction","UT","Apr",-2
+"100","Vermont","Construction","VT","Apr",-7
+"101","Virgin Islands","Construction",NA,"Apr",0
+"102","Virginia","Construction","VA","Apr",-7
+"103","Washington","Construction","WA","Apr",-81
+"104","West Virginia","Construction","WV","Apr",-3
+"105","Wisconsin","Construction","WI","Apr",-12
+"106","Wyoming","Construction","WY","Apr",0
+"107","Alabama","Construction","AL","May",3
+"108","Alaska","Construction","AK","May",2
+"109","Arizona","Construction","AZ","May",1
+"110","Arkansas","Construction","AR","May",0
+"111","California","Construction","CA","May",76
+"112","Colorado","Construction","CO","May",6
+"113","Connecticut","Construction","CT","May",4
+"114","Delaware","Construction","DE","May",0
+"115","District of Columbia","Construction","DC","May",0
+"116","Florida","Construction","FL","May",7
+"117","Georgia","Construction","GA","May",5
+"118","Hawaii","Construction","HI","May",0
+"119","Idaho","Construction","ID","May",2
+"120","Illinois","Construction","IL","May",11
+"121","Indiana","Construction","IN","May",10
+"122","Iowa","Construction","IA","May",1
+"123","Kansas","Construction","KS","May",3
+"124","Kentucky","Construction","KY","May",4
+"125","Louisiana","Construction","LA","May",3
+"126","Maine","Construction","ME","May",1
+"127","Maryland","Construction","MD","May",3
+"128","Massachusetts","Construction","MA","May",19
+"129","Michigan","Construction","MI","May",49
+"130","Minnesota","Construction","MN","May",8
+"131","Mississippi","Construction","MS","May",0
+"132","Missouri","Construction","MO","May",9
+"133","Montana","Construction","MT","May",0
+"134","Nebraska","Construction","NE","May",1
+"135","Nevada","Construction","NV","May",3
+"136","New Hampshire","Construction","NH","May",1
+"137","New Jersey","Construction","NJ","May",15
+"138","New Mexico","Construction","NM","May",0
+"139","New York","Construction","NY","May",54
+"140","North Carolina","Construction","NC","May",-1
+"141","North Dakota","Construction","ND","May",0
+"142","Ohio","Construction","OH","May",20
+"143","Oklahoma","Construction","OK","May",0
+"144","Oregon","Construction","OR","May",5
+"145","Pennsylvania","Construction","PA","May",72
+"146","Puerto Rico","Construction",NA,"May",0
+"147","Rhode Island","Construction","RI","May",1
+"148","South Carolina","Construction","SC","May",4
+"149","South Dakota","Construction","SD","May",1
+"150","Tennessee","Construction","TN","May",2
+"151","Texas","Construction","TX","May",13
+"152","Utah","Construction","UT","May",5
+"153","Vermont","Construction","VT","May",2
+"154","Virgin Islands","Construction",NA,"May",0
+"155","Virginia","Construction","VA","May",5
+"156","Washington","Construction","WA","May",47
+"157","West Virginia","Construction","WV","May",2
+"158","Wisconsin","Construction","WI","May",4
+"159","Wyoming","Construction","WY","May",0
+"160","Alabama","Construction","AL","Jun",2
+"161","Alaska","Construction","AK","Jun",0
+"162","Arizona","Construction","AZ","Jun",-2
+"163","Arkansas","Construction","AR","Jun",0
+"164","California","Construction","CA","Jun",27
+"165","Colorado","Construction","CO","Jun",0
+"166","Connecticut","Construction","CT","Jun",2
+"167","Delaware","Construction","DE","Jun",0
+"168","District of Columbia","Construction","DC","Jun",1
+"169","Florida","Construction","FL","Jun",2
+"170","Georgia","Construction","GA","Jun",2
+"171","Hawaii","Construction","HI","Jun",1
+"172","Idaho","Construction","ID","Jun",0
+"173","Illinois","Construction","IL","Jun",1
+"174","Indiana","Construction","IN","Jun",3
+"175","Iowa","Construction","IA","Jun",-2
+"176","Kansas","Construction","KS","Jun",-1
+"177","Kentucky","Construction","KY","Jun",4
+"178","Louisiana","Construction","LA","Jun",-4
+"179","Maine","Construction","ME","Jun",0
+"180","Maryland","Construction","MD","Jun",6
+"181","Massachusetts","Construction","MA","Jun",20
+"182","Michigan","Construction","MI","Jun",19
+"183","Minnesota","Construction","MN","Jun",-2
+"184","Mississippi","Construction","MS","Jun",-1
+"185","Missouri","Construction","MO","Jun",0
+"186","Montana","Construction","MT","Jun",0
+"187","Nebraska","Construction","NE","Jun",0
+"188","Nevada","Construction","NV","Jun",-4
+"189","New Hampshire","Construction","NH","Jun",0
+"190","New Jersey","Construction","NJ","Jun",7
+"191","New Mexico","Construction","NM","Jun",1
+"192","New York","Construction","NY","Jun",42
+"193","North Carolina","Construction","NC","Jun",2
+"194","North Dakota","Construction","ND","Jun",-1
+"195","Ohio","Construction","OH","Jun",0
+"196","Oklahoma","Construction","OK","Jun",-1
+"197","Oregon","Construction","OR","Jun",0
+"198","Pennsylvania","Construction","PA","Jun",12
+"199","Puerto Rico","Construction",NA,"Jun",2
+"200","Rhode Island","Construction","RI","Jun",0
+"201","South Carolina","Construction","SC","Jun",1
+"202","South Dakota","Construction","SD","Jun",1
+"203","Tennessee","Construction","TN","Jun",-1
+"204","Texas","Construction","TX","Jun",3
+"205","Utah","Construction","UT","Jun",3
+"206","Vermont","Construction","VT","Jun",1
+"207","Virgin Islands","Construction",NA,"Jun",0
+"208","Virginia","Construction","VA","Jun",5
+"209","Washington","Construction","WA","Jun",15
+"210","West Virginia","Construction","WV","Jun",0
+"211","Wisconsin","Construction","WI","Jun",-1
+"212","Wyoming","Construction","WY","Jun",1
+"213","Alabama","Construction","AL","Jul",0
+"214","Alaska","Construction","AK","Jul",-1
+"215","Arizona","Construction","AZ","Jul",1
+"216","Arkansas","Construction","AR","Jul",-1
+"217","California","Construction","CA","Jul",-16
+"218","Colorado","Construction","CO","Jul",0
+"219","Connecticut","Construction","CT","Jul",1
+"220","Delaware","Construction","DE","Jul",0
+"221","District of Columbia","Construction","DC","Jul",0
+"222","Florida","Construction","FL","Jul",-5
+"223","Georgia","Construction","GA","Jul",0
+"224","Hawaii","Construction","HI","Jul",0
+"225","Idaho","Construction","ID","Jul",0
+"226","Illinois","Construction","IL","Jul",-3
+"227","Indiana","Construction","IN","Jul",0
+"228","Iowa","Construction","IA","Jul",0
+"229","Kansas","Construction","KS","Jul",-1
+"230","Kentucky","Construction","KY","Jul",-2
+"231","Louisiana","Construction","LA","Jul",1
+"232","Maine","Construction","ME","Jul",1
+"233","Maryland","Construction","MD","Jul",2
+"234","Massachusetts","Construction","MA","Jul",1
+"235","Michigan","Construction","MI","Jul",3
+"236","Minnesota","Construction","MN","Jul",-1
+"237","Mississippi","Construction","MS","Jul",0
+"238","Missouri","Construction","MO","Jul",5
+"239","Montana","Construction","MT","Jul",0
+"240","Nebraska","Construction","NE","Jul",-1
+"241","Nevada","Construction","NV","Jul",-1
+"242","New Hampshire","Construction","NH","Jul",0
+"243","New Jersey","Construction","NJ","Jul",2
+"244","New Mexico","Construction","NM","Jul",-4
+"245","New York","Construction","NY","Jul",17
+"246","North Carolina","Construction","NC","Jul",2
+"247","North Dakota","Construction","ND","Jul",-1
+"248","Ohio","Construction","OH","Jul",3
+"249","Oklahoma","Construction","OK","Jul",0
+"250","Oregon","Construction","OR","Jul",-1
+"251","Pennsylvania","Construction","PA","Jul",-1
+"252","Puerto Rico","Construction",NA,"Jul",-1
+"253","Rhode Island","Construction","RI","Jul",0
+"254","South Carolina","Construction","SC","Jul",-1
+"255","South Dakota","Construction","SD","Jul",-1
+"256","Tennessee","Construction","TN","Jul",2
+"257","Texas","Construction","TX","Jul",-8
+"258","Utah","Construction","UT","Jul",-1
+"259","Vermont","Construction","VT","Jul",-1
+"260","Virgin Islands","Construction",NA,"Jul",0
+"261","Virginia","Construction","VA","Jul",2
+"262","Washington","Construction","WA","Jul",1
+"263","West Virginia","Construction","WV","Jul",1
+"264","Wisconsin","Construction","WI","Jul",4
+"265","Wyoming","Construction","WY","Jul",0
+"266","Alabama","Manufacturing","AL","Mar",2
+"267","Alaska","Manufacturing","AK","Mar",0
+"268","Arizona","Manufacturing","AZ","Mar",-1
+"269","Arkansas","Manufacturing","AR","Mar",-1
+"270","California","Manufacturing","CA","Mar",-12
+"271","Colorado","Manufacturing","CO","Mar",-1
+"272","Connecticut","Manufacturing","CT","Mar",1
+"273","Delaware","Manufacturing","DE","Mar",0
+"274","District of Columbia","Manufacturing","DC","Mar",0
+"275","Florida","Manufacturing","FL","Mar",0
+"276","Georgia","Manufacturing","GA","Mar",-2
+"277","Hawaii","Manufacturing","HI","Mar",0
+"278","Idaho","Manufacturing","ID","Mar",0
+"279","Illinois","Manufacturing","IL","Mar",-2
+"280","Indiana","Manufacturing","IN","Mar",-7
+"281","Iowa","Manufacturing","IA","Mar",-1
+"282","Kansas","Manufacturing","KS","Mar",0
+"283","Kentucky","Manufacturing","KY","Mar",-1
+"284","Louisiana","Manufacturing","LA","Mar",1
+"285","Maine","Manufacturing","ME","Mar",1
+"286","Maryland","Manufacturing","MD","Mar",-1
+"287","Massachusetts","Manufacturing","MA","Mar",-2
+"288","Michigan","Manufacturing","MI","Mar",-5
+"289","Minnesota","Manufacturing","MN","Mar",-1
+"290","Mississippi","Manufacturing","MS","Mar",0
+"291","Missouri","Manufacturing","MO","Mar",-2
+"292","Montana","Manufacturing","MT","Mar",0
+"293","Nebraska","Manufacturing","NE","Mar",-1
+"294","Nevada","Manufacturing","NV","Mar",0
+"295","New Hampshire","Manufacturing","NH","Mar",0
+"296","New Jersey","Manufacturing","NJ","Mar",0
+"297","New Mexico","Manufacturing","NM","Mar",0
+"298","New York","Manufacturing","NY","Mar",-1
+"299","North Carolina","Manufacturing","NC","Mar",-5
+"300","North Dakota","Manufacturing","ND","Mar",0
+"301","Ohio","Manufacturing","OH","Mar",-2
+"302","Oklahoma","Manufacturing","OK","Mar",-2
+"303","Oregon","Manufacturing","OR","Mar",0
+"304","Pennsylvania","Manufacturing","PA","Mar",-4
+"305","Puerto Rico","Manufacturing",NA,"Mar",0
+"306","Rhode Island","Manufacturing","RI","Mar",0
+"307","South Carolina","Manufacturing","SC","Mar",0
+"308","South Dakota","Manufacturing","SD","Mar",0
+"309","Tennessee","Manufacturing","TN","Mar",-3
+"310","Texas","Manufacturing","TX","Mar",-6
+"311","Utah","Manufacturing","UT","Mar",0
+"312","Vermont","Manufacturing","VT","Mar",-1
+"313","Virgin Islands","Manufacturing",NA,"Mar",NA
+"314","Virginia","Manufacturing","VA","Mar",-2
+"315","Washington","Manufacturing","WA","Mar",-2
+"316","West Virginia","Manufacturing","WV","Mar",0
+"317","Wisconsin","Manufacturing","WI","Mar",0
+"318","Wyoming","Manufacturing","WY","Mar",0
+"319","Alabama","Manufacturing","AL","Apr",-25
+"320","Alaska","Manufacturing","AK","Apr",-1
+"321","Arizona","Manufacturing","AZ","Apr",-2
+"322","Arkansas","Manufacturing","AR","Apr",-8
+"323","California","Manufacturing","CA","Apr",-119
+"324","Colorado","Manufacturing","CO","Apr",-10
+"325","Connecticut","Manufacturing","CT","Apr",-13
+"326","Delaware","Manufacturing","DE","Apr",-3
+"327","District of Columbia","Manufacturing","DC","Apr",0
+"328","Florida","Manufacturing","FL","Apr",-31
+"329","Georgia","Manufacturing","GA","Apr",-40
+"330","Hawaii","Manufacturing","HI","Apr",-3
+"331","Idaho","Manufacturing","ID","Apr",-1
+"332","Illinois","Manufacturing","IL","Apr",-51
+"333","Indiana","Manufacturing","IN","Apr",-78
+"334","Iowa","Manufacturing","IA","Apr",-11
+"335","Kansas","Manufacturing","KS","Apr",-10
+"336","Kentucky","Manufacturing","KY","Apr",-54
+"337","Louisiana","Manufacturing","LA","Apr",-11
+"338","Maine","Manufacturing","ME","Apr",-9
+"339","Maryland","Manufacturing","MD","Apr",-14
+"340","Massachusetts","Manufacturing","MA","Apr",-21
+"341","Michigan","Manufacturing","MI","Apr",-174
+"342","Minnesota","Manufacturing","MN","Apr",-24
+"343","Mississippi","Manufacturing","MS","Apr",-12
+"344","Missouri","Manufacturing","MO","Apr",-35
+"345","Montana","Manufacturing","MT","Apr",-2
+"346","Nebraska","Manufacturing","NE","Apr",-3
+"347","Nevada","Manufacturing","NV","Apr",-4
+"348","New Hampshire","Manufacturing","NH","Apr",-6
+"349","New Jersey","Manufacturing","NJ","Apr",-34
+"350","New Mexico","Manufacturing","NM","Apr",-5
+"351","New York","Manufacturing","NY","Apr",-81
+"352","North Carolina","Manufacturing","NC","Apr",-51
+"353","North Dakota","Manufacturing","ND","Apr",-1
+"354","Ohio","Manufacturing","OH","Apr",-96
+"355","Oklahoma","Manufacturing","OK","Apr",-6
+"356","Oregon","Manufacturing","OR","Apr",-12
+"357","Pennsylvania","Manufacturing","PA","Apr",-74
+"358","Puerto Rico","Manufacturing",NA,"Apr",-4
+"359","Rhode Island","Manufacturing","RI","Apr",-2
+"360","South Carolina","Manufacturing","SC","Apr",-12
+"361","South Dakota","Manufacturing","SD","Apr",-1
+"362","Tennessee","Manufacturing","TN","Apr",-49
+"363","Texas","Manufacturing","TX","Apr",-44
+"364","Utah","Manufacturing","UT","Apr",-2
+"365","Vermont","Manufacturing","VT","Apr",-4
+"366","Virgin Islands","Manufacturing",NA,"Apr",NA
+"367","Virginia","Manufacturing","VA","Apr",-6
+"368","Washington","Manufacturing","WA","Apr",-28
+"369","West Virginia","Manufacturing","WV","Apr",-2
+"370","Wisconsin","Manufacturing","WI","Apr",-41
+"371","Wyoming","Manufacturing","WY","Apr",0
+"372","Alabama","Manufacturing","AL","May",6
+"373","Alaska","Manufacturing","AK","May",0
+"374","Arizona","Manufacturing","AZ","May",-5
+"375","Arkansas","Manufacturing","AR","May",-7
+"376","California","Manufacturing","CA","May",9
+"377","Colorado","Manufacturing","CO","May",6
+"378","Connecticut","Manufacturing","CT","May",3
+"379","Delaware","Manufacturing","DE","May",0
+"380","District of Columbia","Manufacturing","DC","May",0
+"381","Florida","Manufacturing","FL","May",6
+"382","Georgia","Manufacturing","GA","May",12
+"383","Hawaii","Manufacturing","HI","May",1
+"384","Idaho","Manufacturing","ID","May",1
+"385","Illinois","Manufacturing","IL","May",15
+"386","Indiana","Manufacturing","IN","May",20
+"387","Iowa","Manufacturing","IA","May",3
+"388","Kansas","Manufacturing","KS","May",0
+"389","Kentucky","Manufacturing","KY","May",10
+"390","Louisiana","Manufacturing","LA","May",3
+"391","Maine","Manufacturing","ME","May",3
+"392","Maryland","Manufacturing","MD","May",4
+"393","Massachusetts","Manufacturing","MA","May",3
+"394","Michigan","Manufacturing","MI","May",31
+"395","Minnesota","Manufacturing","MN","May",2
+"396","Mississippi","Manufacturing","MS","May",4
+"397","Missouri","Manufacturing","MO","May",11
+"398","Montana","Manufacturing","MT","May",1
+"399","Nebraska","Manufacturing","NE","May",2
+"400","Nevada","Manufacturing","NV","May",2
+"401","New Hampshire","Manufacturing","NH","May",2
+"402","New Jersey","Manufacturing","NJ","May",17
+"403","New Mexico","Manufacturing","NM","May",0
+"404","New York","Manufacturing","NY","May",15
+"405","North Carolina","Manufacturing","NC","May",8
+"406","North Dakota","Manufacturing","ND","May",0
+"407","Ohio","Manufacturing","OH","May",27
+"408","Oklahoma","Manufacturing","OK","May",-1
+"409","Oregon","Manufacturing","OR","May",-4
+"410","Pennsylvania","Manufacturing","PA","May",27
+"411","Puerto Rico","Manufacturing",NA,"May",2
+"412","Rhode Island","Manufacturing","RI","May",1
+"413","South Carolina","Manufacturing","SC","May",-1
+"414","South Dakota","Manufacturing","SD","May",0
+"415","Tennessee","Manufacturing","TN","May",8
+"416","Texas","Manufacturing","TX","May",12
+"417","Utah","Manufacturing","UT","May",0
+"418","Vermont","Manufacturing","VT","May",2
+"419","Virgin Islands","Manufacturing",NA,"May",NA
+"420","Virginia","Manufacturing","VA","May",-5
+"421","Washington","Manufacturing","WA","May",7
+"422","West Virginia","Manufacturing","WV","May",1
+"423","Wisconsin","Manufacturing","WI","May",10
+"424","Wyoming","Manufacturing","WY","May",0
+"425","Alabama","Manufacturing","AL","Jun",4
+"426","Alaska","Manufacturing","AK","Jun",-1
+"427","Arizona","Manufacturing","AZ","Jun",1
+"428","Arkansas","Manufacturing","AR","Jun",0
+"429","California","Manufacturing","CA","Jun",24
+"430","Colorado","Manufacturing","CO","Jun",2
+"431","Connecticut","Manufacturing","CT","Jun",1
+"432","Delaware","Manufacturing","DE","Jun",0
+"433","District of Columbia","Manufacturing","DC","Jun",0
+"434","Florida","Manufacturing","FL","Jun",6
+"435","Georgia","Manufacturing","GA","Jun",13
+"436","Hawaii","Manufacturing","HI","Jun",0
+"437","Idaho","Manufacturing","ID","Jun",0
+"438","Illinois","Manufacturing","IL","Jun",18
+"439","Indiana","Manufacturing","IN","Jun",19
+"440","Iowa","Manufacturing","IA","Jun",3
+"441","Kansas","Manufacturing","KS","Jun",0
+"442","Kentucky","Manufacturing","KY","Jun",27
+"443","Louisiana","Manufacturing","LA","Jun",0
+"444","Maine","Manufacturing","ME","Jun",0
+"445","Maryland","Manufacturing","MD","Jun",3
+"446","Massachusetts","Manufacturing","MA","Jun",5
+"447","Michigan","Manufacturing","MI","Jun",79
+"448","Minnesota","Manufacturing","MN","Jun",1
+"449","Mississippi","Manufacturing","MS","Jun",0
+"450","Missouri","Manufacturing","MO","Jun",10
+"451","Montana","Manufacturing","MT","Jun",0
+"452","Nebraska","Manufacturing","NE","Jun",-1
+"453","Nevada","Manufacturing","NV","Jun",-1
+"454","New Hampshire","Manufacturing","NH","Jun",-2
+"455","New Jersey","Manufacturing","NJ","Jun",3
+"456","New Mexico","Manufacturing","NM","Jun",2
+"457","New York","Manufacturing","NY","Jun",15
+"458","North Carolina","Manufacturing","NC","Jun",9
+"459","North Dakota","Manufacturing","ND","Jun",0
+"460","Ohio","Manufacturing","OH","Jun",29
+"461","Oklahoma","Manufacturing","OK","Jun",0
+"462","Oregon","Manufacturing","OR","Jun",2
+"463","Pennsylvania","Manufacturing","PA","Jun",15
+"464","Puerto Rico","Manufacturing",NA,"Jun",2
+"465","Rhode Island","Manufacturing","RI","Jun",0
+"466","South Carolina","Manufacturing","SC","Jun",2
+"467","South Dakota","Manufacturing","SD","Jun",0
+"468","Tennessee","Manufacturing","TN","Jun",6
+"469","Texas","Manufacturing","TX","Jun",-1
+"470","Utah","Manufacturing","UT","Jun",2
+"471","Vermont","Manufacturing","VT","Jun",0
+"472","Virgin Islands","Manufacturing",NA,"Jun",NA
+"473","Virginia","Manufacturing","VA","Jun",2
+"474","Washington","Manufacturing","WA","Jun",0
+"475","West Virginia","Manufacturing","WV","Jun",1
+"476","Wisconsin","Manufacturing","WI","Jun",0
+"477","Wyoming","Manufacturing","WY","Jun",0
+"478","Alabama","Manufacturing","AL","Jul",4
+"479","Alaska","Manufacturing","AK","Jul",0
+"480","Arizona","Manufacturing","AZ","Jul",0
+"481","Arkansas","Manufacturing","AR","Jul",-1
+"482","California","Manufacturing","CA","Jul",2
+"483","Colorado","Manufacturing","CO","Jul",2
+"484","Connecticut","Manufacturing","CT","Jul",2
+"485","Delaware","Manufacturing","DE","Jul",1
+"486","District of Columbia","Manufacturing","DC","Jul",0
+"487","Florida","Manufacturing","FL","Jul",1
+"488","Georgia","Manufacturing","GA","Jul",2
+"489","Hawaii","Manufacturing","HI","Jul",-1
+"490","Idaho","Manufacturing","ID","Jul",0
+"491","Illinois","Manufacturing","IL","Jul",-3
+"492","Indiana","Manufacturing","IN","Jul",7
+"493","Iowa","Manufacturing","IA","Jul",0
+"494","Kansas","Manufacturing","KS","Jul",-3
+"495","Kentucky","Manufacturing","KY","Jul",5
+"496","Louisiana","Manufacturing","LA","Jul",1
+"497","Maine","Manufacturing","ME","Jul",-3
+"498","Maryland","Manufacturing","MD","Jul",0
+"499","Massachusetts","Manufacturing","MA","Jul",1
+"500","Michigan","Manufacturing","MI","Jul",5
+"501","Minnesota","Manufacturing","MN","Jul",2
+"502","Mississippi","Manufacturing","MS","Jul",3
+"503","Missouri","Manufacturing","MO","Jul",9
+"504","Montana","Manufacturing","MT","Jul",0
+"505","Nebraska","Manufacturing","NE","Jul",0
+"506","Nevada","Manufacturing","NV","Jul",2
+"507","New Hampshire","Manufacturing","NH","Jul",0
+"508","New Jersey","Manufacturing","NJ","Jul",0
+"509","New Mexico","Manufacturing","NM","Jul",0
+"510","New York","Manufacturing","NY","Jul",5
+"511","North Carolina","Manufacturing","NC","Jul",-2
+"512","North Dakota","Manufacturing","ND","Jul",0
+"513","Ohio","Manufacturing","OH","Jul",-3
+"514","Oklahoma","Manufacturing","OK","Jul",-2
+"515","Oregon","Manufacturing","OR","Jul",-1
+"516","Pennsylvania","Manufacturing","PA","Jul",-4
+"517","Puerto Rico","Manufacturing",NA,"Jul",-1
+"518","Rhode Island","Manufacturing","RI","Jul",1
+"519","South Carolina","Manufacturing","SC","Jul",6
+"520","South Dakota","Manufacturing","SD","Jul",-1
+"521","Tennessee","Manufacturing","TN","Jul",6
+"522","Texas","Manufacturing","TX","Jul",-4
+"523","Utah","Manufacturing","UT","Jul",-1
+"524","Vermont","Manufacturing","VT","Jul",0
+"525","Virgin Islands","Manufacturing",NA,"Jul",NA
+"526","Virginia","Manufacturing","VA","Jul",-3
+"527","Washington","Manufacturing","WA","Jul",1
+"528","West Virginia","Manufacturing","WV","Jul",0
+"529","Wisconsin","Manufacturing","WI","Jul",4
+"530","Wyoming","Manufacturing","WY","Jul",0
+"531","Alabama","Trade, transportation, and utilities","AL","Mar",-2
+"532","Alaska","Trade, transportation, and utilities","AK","Mar",0
+"533","Arizona","Trade, transportation, and utilities","AZ","Mar",3
+"534","Arkansas","Trade, transportation, and utilities","AR","Mar",0
+"535","California","Trade, transportation, and utilities","CA","Mar",-9
+"536","Colorado","Trade, transportation, and utilities","CO","Mar",-3
+"537","Connecticut","Trade, transportation, and utilities","CT","Mar",-2
+"538","Delaware","Trade, transportation, and utilities","DE","Mar",0
+"539","District of Columbia","Trade, transportation, and utilities","DC","Mar",0
+"540","Florida","Trade, transportation, and utilities","FL","Mar",-5
+"541","Georgia","Trade, transportation, and utilities","GA","Mar",-1
+"542","Hawaii","Trade, transportation, and utilities","HI","Mar",-1
+"543","Idaho","Trade, transportation, and utilities","ID","Mar",1
+"544","Illinois","Trade, transportation, and utilities","IL","Mar",-8
+"545","Indiana","Trade, transportation, and utilities","IN","Mar",-3
+"546","Iowa","Trade, transportation, and utilities","IA","Mar",0
+"547","Kansas","Trade, transportation, and utilities","KS","Mar",-1
+"548","Kentucky","Trade, transportation, and utilities","KY","Mar",-3
+"549","Louisiana","Trade, transportation, and utilities","LA","Mar",-2
+"550","Maine","Trade, transportation, and utilities","ME","Mar",0
+"551","Maryland","Trade, transportation, and utilities","MD","Mar",0
+"552","Massachusetts","Trade, transportation, and utilities","MA","Mar",-4
+"553","Michigan","Trade, transportation, and utilities","MI","Mar",0
+"554","Minnesota","Trade, transportation, and utilities","MN","Mar",-1
+"555","Mississippi","Trade, transportation, and utilities","MS","Mar",-1
+"556","Missouri","Trade, transportation, and utilities","MO","Mar",-3
+"557","Montana","Trade, transportation, and utilities","MT","Mar",0
+"558","Nebraska","Trade, transportation, and utilities","NE","Mar",-3
+"559","Nevada","Trade, transportation, and utilities","NV","Mar",-4
+"560","New Hampshire","Trade, transportation, and utilities","NH","Mar",1
+"561","New Jersey","Trade, transportation, and utilities","NJ","Mar",-5
+"562","New Mexico","Trade, transportation, and utilities","NM","Mar",1
+"563","New York","Trade, transportation, and utilities","NY","Mar",-10
+"564","North Carolina","Trade, transportation, and utilities","NC","Mar",-8
+"565","North Dakota","Trade, transportation, and utilities","ND","Mar",0
+"566","Ohio","Trade, transportation, and utilities","OH","Mar",-8
+"567","Oklahoma","Trade, transportation, and utilities","OK","Mar",0
+"568","Oregon","Trade, transportation, and utilities","OR","Mar",-2
+"569","Pennsylvania","Trade, transportation, and utilities","PA","Mar",0
+"570","Puerto Rico","Trade, transportation, and utilities",NA,"Mar",-1
+"571","Rhode Island","Trade, transportation, and utilities","RI","Mar",0
+"572","South Carolina","Trade, transportation, and utilities","SC","Mar",-1
+"573","South Dakota","Trade, transportation, and utilities","SD","Mar",0
+"574","Tennessee","Trade, transportation, and utilities","TN","Mar",-2
+"575","Texas","Trade, transportation, and utilities","TX","Mar",-7
+"576","Utah","Trade, transportation, and utilities","UT","Mar",1
+"577","Vermont","Trade, transportation, and utilities","VT","Mar",-1
+"578","Virgin Islands","Trade, transportation, and utilities",NA,"Mar",0
+"579","Virginia","Trade, transportation, and utilities","VA","Mar",-1
+"580","Washington","Trade, transportation, and utilities","WA","Mar",-2
+"581","West Virginia","Trade, transportation, and utilities","WV","Mar",-1
+"582","Wisconsin","Trade, transportation, and utilities","WI","Mar",-2
+"583","Wyoming","Trade, transportation, and utilities","WY","Mar",0
+"584","Alabama","Trade, transportation, and utilities","AL","Apr",-15
+"585","Alaska","Trade, transportation, and utilities","AK","Apr",-6
+"586","Arizona","Trade, transportation, and utilities","AZ","Apr",-57
+"587","Arkansas","Trade, transportation, and utilities","AR","Apr",-12
+"588","California","Trade, transportation, and utilities","CA","Apr",-389
+"589","Colorado","Trade, transportation, and utilities","CO","Apr",-42
+"590","Connecticut","Trade, transportation, and utilities","CT","Apr",-51
+"591","Delaware","Trade, transportation, and utilities","DE","Apr",-13
+"592","District of Columbia","Trade, transportation, and utilities","DC","Apr",-6
+"593","Florida","Trade, transportation, and utilities","FL","Apr",-164
+"594","Georgia","Trade, transportation, and utilities","GA","Apr",-41
+"595","Hawaii","Trade, transportation, and utilities","HI","Apr",-16
+"596","Idaho","Trade, transportation, and utilities","ID","Apr",-8
+"597","Illinois","Trade, transportation, and utilities","IL","Apr",-100
+"598","Indiana","Trade, transportation, and utilities","IN","Apr",-42
+"599","Iowa","Trade, transportation, and utilities","IA","Apr",-22
+"600","Kansas","Trade, transportation, and utilities","KS","Apr",-11
+"601","Kentucky","Trade, transportation, and utilities","KY","Apr",-43
+"602","Louisiana","Trade, transportation, and utilities","LA","Apr",-38
+"603","Maine","Trade, transportation, and utilities","ME","Apr",-14
+"604","Maryland","Trade, transportation, and utilities","MD","Apr",-56
+"605","Massachusetts","Trade, transportation, and utilities","MA","Apr",-112
+"606","Michigan","Trade, transportation, and utilities","MI","Apr",-160
+"607","Minnesota","Trade, transportation, and utilities","MN","Apr",-39
+"608","Mississippi","Trade, transportation, and utilities","MS","Apr",-14
+"609","Missouri","Trade, transportation, and utilities","MO","Apr",-42
+"610","Montana","Trade, transportation, and utilities","MT","Apr",-9
+"611","Nebraska","Trade, transportation, and utilities","NE","Apr",-14
+"612","Nevada","Trade, transportation, and utilities","NV","Apr",-35
+"613","New Hampshire","Trade, transportation, and utilities","NH","Apr",-23
+"614","New Jersey","Trade, transportation, and utilities","NJ","Apr",-158
+"615","New Mexico","Trade, transportation, and utilities","NM","Apr",-12
+"616","New York","Trade, transportation, and utilities","NY","Apr",-340
+"617","North Carolina","Trade, transportation, and utilities","NC","Apr",-63
+"618","North Dakota","Trade, transportation, and utilities","ND","Apr",-6
+"619","Ohio","Trade, transportation, and utilities","OH","Apr",-116
+"620","Oklahoma","Trade, transportation, and utilities","OK","Apr",-19
+"621","Oregon","Trade, transportation, and utilities","OR","Apr",-29
+"622","Pennsylvania","Trade, transportation, and utilities","PA","Apr",-189
+"623","Puerto Rico","Trade, transportation, and utilities",NA,"Apr",-25
+"624","Rhode Island","Trade, transportation, and utilities","RI","Apr",-12
+"625","South Carolina","Trade, transportation, and utilities","SC","Apr",-28
+"626","South Dakota","Trade, transportation, and utilities","SD","Apr",-6
+"627","Tennessee","Trade, transportation, and utilities","TN","Apr",-39
+"628","Texas","Trade, transportation, and utilities","TX","Apr",-174
+"629","Utah","Trade, transportation, and utilities","UT","Apr",-22
+"630","Vermont","Trade, transportation, and utilities","VT","Apr",-10
+"631","Virgin Islands","Trade, transportation, and utilities",NA,"Apr",-1
+"632","Virginia","Trade, transportation, and utilities","VA","Apr",-49
+"633","Washington","Trade, transportation, and utilities","WA","Apr",-67
+"634","West Virginia","Trade, transportation, and utilities","WV","Apr",-14
+"635","Wisconsin","Trade, transportation, and utilities","WI","Apr",-53
+"636","Wyoming","Trade, transportation, and utilities","WY","Apr",-2
+"637","Alabama","Trade, transportation, and utilities","AL","May",6
+"638","Alaska","Trade, transportation, and utilities","AK","May",0
+"639","Arizona","Trade, transportation, and utilities","AZ","May",35
+"640","Arkansas","Trade, transportation, and utilities","AR","May",5
+"641","California","Trade, transportation, and utilities","CA","May",17
+"642","Colorado","Trade, transportation, and utilities","CO","May",3
+"643","Connecticut","Trade, transportation, and utilities","CT","May",6
+"644","Delaware","Trade, transportation, and utilities","DE","May",0
+"645","District of Columbia","Trade, transportation, and utilities","DC","May",2
+"646","Florida","Trade, transportation, and utilities","FL","May",28
+"647","Georgia","Trade, transportation, and utilities","GA","May",0
+"648","Hawaii","Trade, transportation, and utilities","HI","May",-1
+"649","Idaho","Trade, transportation, and utilities","ID","May",3
+"650","Illinois","Trade, transportation, and utilities","IL","May",7
+"651","Indiana","Trade, transportation, and utilities","IN","May",4
+"652","Iowa","Trade, transportation, and utilities","IA","May",9
+"653","Kansas","Trade, transportation, and utilities","KS","May",2
+"654","Kentucky","Trade, transportation, and utilities","KY","May",2
+"655","Louisiana","Trade, transportation, and utilities","LA","May",4
+"656","Maine","Trade, transportation, and utilities","ME","May",4
+"657","Maryland","Trade, transportation, and utilities","MD","May",-3
+"658","Massachusetts","Trade, transportation, and utilities","MA","May",-3
+"659","Michigan","Trade, transportation, and utilities","MI","May",44
+"660","Minnesota","Trade, transportation, and utilities","MN","May",7
+"661","Mississippi","Trade, transportation, and utilities","MS","May",6
+"662","Missouri","Trade, transportation, and utilities","MO","May",-3
+"663","Montana","Trade, transportation, and utilities","MT","May",2
+"664","Nebraska","Trade, transportation, and utilities","NE","May",6
+"665","Nevada","Trade, transportation, and utilities","NV","May",-1
+"666","New Hampshire","Trade, transportation, and utilities","NH","May",-2
+"667","New Jersey","Trade, transportation, and utilities","NJ","May",22
+"668","New Mexico","Trade, transportation, and utilities","NM","May",-1
+"669","New York","Trade, transportation, and utilities","NY","May",22
+"670","North Carolina","Trade, transportation, and utilities","NC","May",10
+"671","North Dakota","Trade, transportation, and utilities","ND","May",1
+"672","Ohio","Trade, transportation, and utilities","OH","May",26
+"673","Oklahoma","Trade, transportation, and utilities","OK","May",6
+"674","Oregon","Trade, transportation, and utilities","OR","May",7
+"675","Pennsylvania","Trade, transportation, and utilities","PA","May",37
+"676","Puerto Rico","Trade, transportation, and utilities",NA,"May",-3
+"677","Rhode Island","Trade, transportation, and utilities","RI","May",0
+"678","South Carolina","Trade, transportation, and utilities","SC","May",7
+"679","South Dakota","Trade, transportation, and utilities","SD","May",0
+"680","Tennessee","Trade, transportation, and utilities","TN","May",4
+"681","Texas","Trade, transportation, and utilities","TX","May",11
+"682","Utah","Trade, transportation, and utilities","UT","May",10
+"683","Vermont","Trade, transportation, and utilities","VT","May",3
+"684","Virgin Islands","Trade, transportation, and utilities",NA,"May",0
+"685","Virginia","Trade, transportation, and utilities","VA","May",-3
+"686","Washington","Trade, transportation, and utilities","WA","May",11
+"687","West Virginia","Trade, transportation, and utilities","WV","May",3
+"688","Wisconsin","Trade, transportation, and utilities","WI","May",9
+"689","Wyoming","Trade, transportation, and utilities","WY","May",1
+"690","Alabama","Trade, transportation, and utilities","AL","Jun",8
+"691","Alaska","Trade, transportation, and utilities","AK","Jun",0
+"692","Arizona","Trade, transportation, and utilities","AZ","Jun",13
+"693","Arkansas","Trade, transportation, and utilities","AR","Jun",7
+"694","California","Trade, transportation, and utilities","CA","Jun",97
+"695","Colorado","Trade, transportation, and utilities","CO","Jun",9
+"696","Connecticut","Trade, transportation, and utilities","CT","Jun",19
+"697","Delaware","Trade, transportation, and utilities","DE","Jun",4
+"698","District of Columbia","Trade, transportation, and utilities","DC","Jun",0
+"699","Florida","Trade, transportation, and utilities","FL","Jun",54
+"700","Georgia","Trade, transportation, and utilities","GA","Jun",21
+"701","Hawaii","Trade, transportation, and utilities","HI","Jun",1
+"702","Idaho","Trade, transportation, and utilities","ID","Jun",5
+"703","Illinois","Trade, transportation, and utilities","IL","Jun",41
+"704","Indiana","Trade, transportation, and utilities","IN","Jun",17
+"705","Iowa","Trade, transportation, and utilities","IA","Jun",6
+"706","Kansas","Trade, transportation, and utilities","KS","Jun",4
+"707","Kentucky","Trade, transportation, and utilities","KY","Jun",19
+"708","Louisiana","Trade, transportation, and utilities","LA","Jun",14
+"709","Maine","Trade, transportation, and utilities","ME","Jun",5
+"710","Maryland","Trade, transportation, and utilities","MD","Jun",15
+"711","Massachusetts","Trade, transportation, and utilities","MA","Jun",28
+"712","Michigan","Trade, transportation, and utilities","MI","Jun",49
+"713","Minnesota","Trade, transportation, and utilities","MN","Jun",19
+"714","Mississippi","Trade, transportation, and utilities","MS","Jun",4
+"715","Missouri","Trade, transportation, and utilities","MO","Jun",20
+"716","Montana","Trade, transportation, and utilities","MT","Jun",3
+"717","Nebraska","Trade, transportation, and utilities","NE","Jun",8
+"718","Nevada","Trade, transportation, and utilities","NV","Jun",14
+"719","New Hampshire","Trade, transportation, and utilities","NH","Jun",6
+"720","New Jersey","Trade, transportation, and utilities","NJ","Jun",42
+"721","New Mexico","Trade, transportation, and utilities","NM","Jun",6
+"722","New York","Trade, transportation, and utilities","NY","Jun",68
+"723","North Carolina","Trade, transportation, and utilities","NC","Jun",23
+"724","North Dakota","Trade, transportation, and utilities","ND","Jun",-2
+"725","Ohio","Trade, transportation, and utilities","OH","Jun",30
+"726","Oklahoma","Trade, transportation, and utilities","OK","Jun",4
+"727","Oregon","Trade, transportation, and utilities","OR","Jun",7
+"728","Pennsylvania","Trade, transportation, and utilities","PA","Jun",41
+"729","Puerto Rico","Trade, transportation, and utilities",NA,"Jun",8
+"730","Rhode Island","Trade, transportation, and utilities","RI","Jun",4
+"731","South Carolina","Trade, transportation, and utilities","SC","Jun",12
+"732","South Dakota","Trade, transportation, and utilities","SD","Jun",2
+"733","Tennessee","Trade, transportation, and utilities","TN","Jun",11
+"734","Texas","Trade, transportation, and utilities","TX","Jun",44
+"735","Utah","Trade, transportation, and utilities","UT","Jun",8
+"736","Vermont","Trade, transportation, and utilities","VT","Jun",4
+"737","Virgin Islands","Trade, transportation, and utilities",NA,"Jun",0
+"738","Virginia","Trade, transportation, and utilities","VA","Jun",19
+"739","Washington","Trade, transportation, and utilities","WA","Jun",29
+"740","West Virginia","Trade, transportation, and utilities","WV","Jun",4
+"741","Wisconsin","Trade, transportation, and utilities","WI","Jun",21
+"742","Wyoming","Trade, transportation, and utilities","WY","Jun",1
+"743","Alabama","Trade, transportation, and utilities","AL","Jul",-2
+"744","Alaska","Trade, transportation, and utilities","AK","Jul",-1
+"745","Arizona","Trade, transportation, and utilities","AZ","Jul",2
+"746","Arkansas","Trade, transportation, and utilities","AR","Jul",1
+"747","California","Trade, transportation, and utilities","CA","Jul",47
+"748","Colorado","Trade, transportation, and utilities","CO","Jul",6
+"749","Connecticut","Trade, transportation, and utilities","CT","Jul",6
+"750","Delaware","Trade, transportation, and utilities","DE","Jul",1
+"751","District of Columbia","Trade, transportation, and utilities","DC","Jul",2
+"752","Florida","Trade, transportation, and utilities","FL","Jul",15
+"753","Georgia","Trade, transportation, and utilities","GA","Jul",-1
+"754","Hawaii","Trade, transportation, and utilities","HI","Jul",-1
+"755","Idaho","Trade, transportation, and utilities","ID","Jul",0
+"756","Illinois","Trade, transportation, and utilities","IL","Jul",-1
+"757","Indiana","Trade, transportation, and utilities","IN","Jul",0
+"758","Iowa","Trade, transportation, and utilities","IA","Jul",0
+"759","Kansas","Trade, transportation, and utilities","KS","Jul",1
+"760","Kentucky","Trade, transportation, and utilities","KY","Jul",2
+"761","Louisiana","Trade, transportation, and utilities","LA","Jul",4
+"762","Maine","Trade, transportation, and utilities","ME","Jul",1
+"763","Maryland","Trade, transportation, and utilities","MD","Jul",9
+"764","Massachusetts","Trade, transportation, and utilities","MA","Jul",15
+"765","Michigan","Trade, transportation, and utilities","MI","Jul",6
+"766","Minnesota","Trade, transportation, and utilities","MN","Jul",-1
+"767","Mississippi","Trade, transportation, and utilities","MS","Jul",-1
+"768","Missouri","Trade, transportation, and utilities","MO","Jul",6
+"769","Montana","Trade, transportation, and utilities","MT","Jul",-1
+"770","Nebraska","Trade, transportation, and utilities","NE","Jul",-1
+"771","Nevada","Trade, transportation, and utilities","NV","Jul",2
+"772","New Hampshire","Trade, transportation, and utilities","NH","Jul",3
+"773","New Jersey","Trade, transportation, and utilities","NJ","Jul",33
+"774","New Mexico","Trade, transportation, and utilities","NM","Jul",1
+"775","New York","Trade, transportation, and utilities","NY","Jul",54
+"776","North Carolina","Trade, transportation, and utilities","NC","Jul",5
+"777","North Dakota","Trade, transportation, and utilities","ND","Jul",0
+"778","Ohio","Trade, transportation, and utilities","OH","Jul",3
+"779","Oklahoma","Trade, transportation, and utilities","OK","Jul",-3
+"780","Oregon","Trade, transportation, and utilities","OR","Jul",3
+"781","Pennsylvania","Trade, transportation, and utilities","PA","Jul",0
+"782","Puerto Rico","Trade, transportation, and utilities",NA,"Jul",2
+"783","Rhode Island","Trade, transportation, and utilities","RI","Jul",1
+"784","South Carolina","Trade, transportation, and utilities","SC","Jul",-8
+"785","South Dakota","Trade, transportation, and utilities","SD","Jul",0
+"786","Tennessee","Trade, transportation, and utilities","TN","Jul",2
+"787","Texas","Trade, transportation, and utilities","TX","Jul",-12
+"788","Utah","Trade, transportation, and utilities","UT","Jul",1
+"789","Vermont","Trade, transportation, and utilities","VT","Jul",0
+"790","Virgin Islands","Trade, transportation, and utilities",NA,"Jul",0
+"791","Virginia","Trade, transportation, and utilities","VA","Jul",4
+"792","Washington","Trade, transportation, and utilities","WA","Jul",5
+"793","West Virginia","Trade, transportation, and utilities","WV","Jul",0
+"794","Wisconsin","Trade, transportation, and utilities","WI","Jul",-1
+"795","Wyoming","Trade, transportation, and utilities","WY","Jul",-1
+"796","Alabama","Financial activities","AL","Mar",-1
+"797","Alaska","Financial activities","AK","Mar",0
+"798","Arizona","Financial activities","AZ","Mar",-1
+"799","Arkansas","Financial activities","AR","Mar",0
+"800","California","Financial activities","CA","Mar",1
+"801","Colorado","Financial activities","CO","Mar",1
+"802","Connecticut","Financial activities","CT","Mar",-1
+"803","Delaware","Financial activities","DE","Mar",-1
+"804","District of Columbia","Financial activities","DC","Mar",0
+"805","Florida","Financial activities","FL","Mar",1
+"806","Georgia","Financial activities","GA","Mar",0
+"807","Hawaii","Financial activities","HI","Mar",-1
+"808","Idaho","Financial activities","ID","Mar",0
+"809","Illinois","Financial activities","IL","Mar",-2
+"810","Indiana","Financial activities","IN","Mar",-1
+"811","Iowa","Financial activities","IA","Mar",0
+"812","Kansas","Financial activities","KS","Mar",-1
+"813","Kentucky","Financial activities","KY","Mar",1
+"814","Louisiana","Financial activities","LA","Mar",0
+"815","Maine","Financial activities","ME","Mar",0
+"816","Maryland","Financial activities","MD","Mar",-1
+"817","Massachusetts","Financial activities","MA","Mar",0
+"818","Michigan","Financial activities","MI","Mar",1
+"819","Minnesota","Financial activities","MN","Mar",-1
+"820","Mississippi","Financial activities","MS","Mar",0
+"821","Missouri","Financial activities","MO","Mar",-1
+"822","Montana","Financial activities","MT","Mar",1
+"823","Nebraska","Financial activities","NE","Mar",0
+"824","Nevada","Financial activities","NV","Mar",-2
+"825","New Hampshire","Financial activities","NH","Mar",0
+"826","New Jersey","Financial activities","NJ","Mar",-3
+"827","New Mexico","Financial activities","NM","Mar",0
+"828","New York","Financial activities","NY","Mar",-17
+"829","North Carolina","Financial activities","NC","Mar",0
+"830","North Dakota","Financial activities","ND","Mar",0
+"831","Ohio","Financial activities","OH","Mar",-1
+"832","Oklahoma","Financial activities","OK","Mar",-1
+"833","Oregon","Financial activities","OR","Mar",0
+"834","Pennsylvania","Financial activities","PA","Mar",2
+"835","Puerto Rico","Financial activities",NA,"Mar",0
+"836","Rhode Island","Financial activities","RI","Mar",0
+"837","South Carolina","Financial activities","SC","Mar",-1
+"838","South Dakota","Financial activities","SD","Mar",0
+"839","Tennessee","Financial activities","TN","Mar",3
+"840","Texas","Financial activities","TX","Mar",3
+"841","Utah","Financial activities","UT","Mar",0
+"842","Vermont","Financial activities","VT","Mar",0
+"843","Virgin Islands","Financial activities",NA,"Mar",NA
+"844","Virginia","Financial activities","VA","Mar",2
+"845","Washington","Financial activities","WA","Mar",-1
+"846","West Virginia","Financial activities","WV","Mar",0
+"847","Wisconsin","Financial activities","WI","Mar",-1
+"848","Wyoming","Financial activities","WY","Mar",0
+"849","Alabama","Financial activities","AL","Apr",-3
+"850","Alaska","Financial activities","AK","Apr",-1
+"851","Arizona","Financial activities","AZ","Apr",-2
+"852","Arkansas","Financial activities","AR","Apr",-1
+"853","California","Financial activities","CA","Apr",-31
+"854","Colorado","Financial activities","CO","Apr",-6
+"855","Connecticut","Financial activities","CT","Apr",-3
+"856","Delaware","Financial activities","DE","Apr",0
+"857","District of Columbia","Financial activities","DC","Apr",-1
+"858","Florida","Financial activities","FL","Apr",-26
+"859","Georgia","Financial activities","GA","Apr",-14
+"860","Hawaii","Financial activities","HI","Apr",-1
+"861","Idaho","Financial activities","ID","Apr",0
+"862","Illinois","Financial activities","IL","Apr",-9
+"863","Indiana","Financial activities","IN","Apr",-3
+"864","Iowa","Financial activities","IA","Apr",-2
+"865","Kansas","Financial activities","KS","Apr",0
+"866","Kentucky","Financial activities","KY","Apr",-2
+"867","Louisiana","Financial activities","LA","Apr",-5
+"868","Maine","Financial activities","ME","Apr",-1
+"869","Maryland","Financial activities","MD","Apr",-9
+"870","Massachusetts","Financial activities","MA","Apr",-6
+"871","Michigan","Financial activities","MI","Apr",-15
+"872","Minnesota","Financial activities","MN","Apr",-3
+"873","Mississippi","Financial activities","MS","Apr",-1
+"874","Missouri","Financial activities","MO","Apr",-4
+"875","Montana","Financial activities","MT","Apr",-1
+"876","Nebraska","Financial activities","NE","Apr",0
+"877","Nevada","Financial activities","NV","Apr",0
+"878","New Hampshire","Financial activities","NH","Apr",-1
+"879","New Jersey","Financial activities","NJ","Apr",-13
+"880","New Mexico","Financial activities","NM","Apr",-3
+"881","New York","Financial activities","NY","Apr",-17
+"882","North Carolina","Financial activities","NC","Apr",-9
+"883","North Dakota","Financial activities","ND","Apr",0
+"884","Ohio","Financial activities","OH","Apr",-12
+"885","Oklahoma","Financial activities","OK","Apr",1
+"886","Oregon","Financial activities","OR","Apr",-6
+"887","Pennsylvania","Financial activities","PA","Apr",-7
+"888","Puerto Rico","Financial activities",NA,"Apr",-2
+"889","Rhode Island","Financial activities","RI","Apr",-2
+"890","South Carolina","Financial activities","SC","Apr",-5
+"891","South Dakota","Financial activities","SD","Apr",0
+"892","Tennessee","Financial activities","TN","Apr",-7
+"893","Texas","Financial activities","TX","Apr",-16
+"894","Utah","Financial activities","UT","Apr",-5
+"895","Vermont","Financial activities","VT","Apr",-1
+"896","Virgin Islands","Financial activities",NA,"Apr",NA
+"897","Virginia","Financial activities","VA","Apr",-5
+"898","Washington","Financial activities","WA","Apr",-8
+"899","West Virginia","Financial activities","WV","Apr",-2
+"900","Wisconsin","Financial activities","WI","Apr",-3
+"901","Wyoming","Financial activities","WY","Apr",0
+"902","Alabama","Financial activities","AL","May",1
+"903","Alaska","Financial activities","AK","May",0
+"904","Arizona","Financial activities","AZ","May",1
+"905","Arkansas","Financial activities","AR","May",0
+"906","California","Financial activities","CA","May",5
+"907","Colorado","Financial activities","CO","May",2
+"908","Connecticut","Financial activities","CT","May",-1
+"909","Delaware","Financial activities","DE","May",-1
+"910","District of Columbia","Financial activities","DC","May",1
+"911","Florida","Financial activities","FL","May",2
+"912","Georgia","Financial activities","GA","May",6
+"913","Hawaii","Financial activities","HI","May",0
+"914","Idaho","Financial activities","ID","May",1
+"915","Illinois","Financial activities","IL","May",-1
+"916","Indiana","Financial activities","IN","May",-1
+"917","Iowa","Financial activities","IA","May",0
+"918","Kansas","Financial activities","KS","May",-1
+"919","Kentucky","Financial activities","KY","May",-4
+"920","Louisiana","Financial activities","LA","May",2
+"921","Maine","Financial activities","ME","May",0
+"922","Maryland","Financial activities","MD","May",4
+"923","Massachusetts","Financial activities","MA","May",1
+"924","Michigan","Financial activities","MI","May",3
+"925","Minnesota","Financial activities","MN","May",0
+"926","Mississippi","Financial activities","MS","May",0
+"927","Missouri","Financial activities","MO","May",0
+"928","Montana","Financial activities","MT","May",-1
+"929","Nebraska","Financial activities","NE","May",-1
+"930","Nevada","Financial activities","NV","May",-1
+"931","New Hampshire","Financial activities","NH","May",0
+"932","New Jersey","Financial activities","NJ","May",0
+"933","New Mexico","Financial activities","NM","May",1
+"934","New York","Financial activities","NY","May",-1
+"935","North Carolina","Financial activities","NC","May",1
+"936","North Dakota","Financial activities","ND","May",-1
+"937","Ohio","Financial activities","OH","May",2
+"938","Oklahoma","Financial activities","OK","May",-2
+"939","Oregon","Financial activities","OR","May",-1
+"940","Pennsylvania","Financial activities","PA","May",-2
+"941","Puerto Rico","Financial activities",NA,"May",0
+"942","Rhode Island","Financial activities","RI","May",0
+"943","South Carolina","Financial activities","SC","May",4
+"944","South Dakota","Financial activities","SD","May",0
+"945","Tennessee","Financial activities","TN","May",2
+"946","Texas","Financial activities","TX","May",-4
+"947","Utah","Financial activities","UT","May",4
+"948","Vermont","Financial activities","VT","May",0
+"949","Virgin Islands","Financial activities",NA,"May",NA
+"950","Virginia","Financial activities","VA","May",-2
+"951","Washington","Financial activities","WA","May",1
+"952","West Virginia","Financial activities","WV","May",0
+"953","Wisconsin","Financial activities","WI","May",-1
+"954","Wyoming","Financial activities","WY","May",0
+"955","Alabama","Financial activities","AL","Jun",3
+"956","Alaska","Financial activities","AK","Jun",0
+"957","Arizona","Financial activities","AZ","Jun",0
+"958","Arkansas","Financial activities","AR","Jun",0
+"959","California","Financial activities","CA","Jun",4
+"960","Colorado","Financial activities","CO","Jun",-2
+"961","Connecticut","Financial activities","CT","Jun",-1
+"962","Delaware","Financial activities","DE","Jun",0
+"963","District of Columbia","Financial activities","DC","Jun",-1
+"964","Florida","Financial activities","FL","Jun",10
+"965","Georgia","Financial activities","GA","Jun",2
+"966","Hawaii","Financial activities","HI","Jun",0
+"967","Idaho","Financial activities","ID","Jun",1
+"968","Illinois","Financial activities","IL","Jun",-1
+"969","Indiana","Financial activities","IN","Jun",0
+"970","Iowa","Financial activities","IA","Jun",-1
+"971","Kansas","Financial activities","KS","Jun",0
+"972","Kentucky","Financial activities","KY","Jun",1
+"973","Louisiana","Financial activities","LA","Jun",0
+"974","Maine","Financial activities","ME","Jun",0
+"975","Maryland","Financial activities","MD","Jun",-1
+"976","Massachusetts","Financial activities","MA","Jun",-2
+"977","Michigan","Financial activities","MI","Jun",2
+"978","Minnesota","Financial activities","MN","Jun",-2
+"979","Mississippi","Financial activities","MS","Jun",0
+"980","Missouri","Financial activities","MO","Jun",0
+"981","Montana","Financial activities","MT","Jun",0
+"982","Nebraska","Financial activities","NE","Jun",0
+"983","Nevada","Financial activities","NV","Jun",0
+"984","New Hampshire","Financial activities","NH","Jun",0
+"985","New Jersey","Financial activities","NJ","Jun",0
+"986","New Mexico","Financial activities","NM","Jun",0
+"987","New York","Financial activities","NY","Jun",-5
+"988","North Carolina","Financial activities","NC","Jun",1
+"989","North Dakota","Financial activities","ND","Jun",1
+"990","Ohio","Financial activities","OH","Jun",-1
+"991","Oklahoma","Financial activities","OK","Jun",0
+"992","Oregon","Financial activities","OR","Jun",1
+"993","Pennsylvania","Financial activities","PA","Jun",0
+"994","Puerto Rico","Financial activities",NA,"Jun",0
+"995","Rhode Island","Financial activities","RI","Jun",1
+"996","South Carolina","Financial activities","SC","Jun",1
+"997","South Dakota","Financial activities","SD","Jun",0
+"998","Tennessee","Financial activities","TN","Jun",0
+"999","Texas","Financial activities","TX","Jun",6
+"1000","Utah","Financial activities","UT","Jun",1
+"1001","Vermont","Financial activities","VT","Jun",0
+"1002","Virgin Islands","Financial activities",NA,"Jun",NA
+"1003","Virginia","Financial activities","VA","Jun",-3
+"1004","Washington","Financial activities","WA","Jun",3
+"1005","West Virginia","Financial activities","WV","Jun",-1
+"1006","Wisconsin","Financial activities","WI","Jun",1
+"1007","Wyoming","Financial activities","WY","Jun",0
+"1008","Alabama","Financial activities","AL","Jul",-1
+"1009","Alaska","Financial activities","AK","Jul",0
+"1010","Arizona","Financial activities","AZ","Jul",0
+"1011","Arkansas","Financial activities","AR","Jul",0
+"1012","California","Financial activities","CA","Jul",5
+"1013","Colorado","Financial activities","CO","Jul",-1
+"1014","Connecticut","Financial activities","CT","Jul",0
+"1015","Delaware","Financial activities","DE","Jul",0
+"1016","District of Columbia","Financial activities","DC","Jul",0
+"1017","Florida","Financial activities","FL","Jul",-1
+"1018","Georgia","Financial activities","GA","Jul",-1
+"1019","Hawaii","Financial activities","HI","Jul",0
+"1020","Idaho","Financial activities","ID","Jul",0
+"1021","Illinois","Financial activities","IL","Jul",2
+"1022","Indiana","Financial activities","IN","Jul",1
+"1023","Iowa","Financial activities","IA","Jul",1
+"1024","Kansas","Financial activities","KS","Jul",-1
+"1025","Kentucky","Financial activities","KY","Jul",-1
+"1026","Louisiana","Financial activities","LA","Jul",1
+"1027","Maine","Financial activities","ME","Jul",0
+"1028","Maryland","Financial activities","MD","Jul",2
+"1029","Massachusetts","Financial activities","MA","Jul",0
+"1030","Michigan","Financial activities","MI","Jul",-1
+"1031","Minnesota","Financial activities","MN","Jul",1
+"1032","Mississippi","Financial activities","MS","Jul",0
+"1033","Missouri","Financial activities","MO","Jul",0
+"1034","Montana","Financial activities","MT","Jul",0
+"1035","Nebraska","Financial activities","NE","Jul",0
+"1036","Nevada","Financial activities","NV","Jul",1
+"1037","New Hampshire","Financial activities","NH","Jul",1
+"1038","New Jersey","Financial activities","NJ","Jul",1
+"1039","New Mexico","Financial activities","NM","Jul",0
+"1040","New York","Financial activities","NY","Jul",-3
+"1041","North Carolina","Financial activities","NC","Jul",-1
+"1042","North Dakota","Financial activities","ND","Jul",-1
+"1043","Ohio","Financial activities","OH","Jul",-1
+"1044","Oklahoma","Financial activities","OK","Jul",1
+"1045","Oregon","Financial activities","OR","Jul",1
+"1046","Pennsylvania","Financial activities","PA","Jul",3
+"1047","Puerto Rico","Financial activities",NA,"Jul",0
+"1048","Rhode Island","Financial activities","RI","Jul",1
+"1049","South Carolina","Financial activities","SC","Jul",0
+"1050","South Dakota","Financial activities","SD","Jul",0
+"1051","Tennessee","Financial activities","TN","Jul",2
+"1052","Texas","Financial activities","TX","Jul",2
+"1053","Utah","Financial activities","UT","Jul",2
+"1054","Vermont","Financial activities","VT","Jul",0
+"1055","Virgin Islands","Financial activities",NA,"Jul",NA
+"1056","Virginia","Financial activities","VA","Jul",-2
+"1057","Washington","Financial activities","WA","Jul",3
+"1058","West Virginia","Financial activities","WV","Jul",2
+"1059","Wisconsin","Financial activities","WI","Jul",-1
+"1060","Wyoming","Financial activities","WY","Jul",0
+"1061","Alabama","Professional and business services","AL","Mar",-1
+"1062","Alaska","Professional and business services","AK","Mar",0
+"1063","Arizona","Professional and business services","AZ","Mar",-3
+"1064","Arkansas","Professional and business services","AR","Mar",1
+"1065","California","Professional and business services","CA","Mar",-24
+"1066","Colorado","Professional and business services","CO","Mar",3
+"1067","Connecticut","Professional and business services","CT","Mar",2
+"1068","Delaware","Professional and business services","DE","Mar",0
+"1069","District of Columbia","Professional and business services","DC","Mar",1
+"1070","Florida","Professional and business services","FL","Mar",-11
+"1071","Georgia","Professional and business services","GA","Mar",-8
+"1072","Hawaii","Professional and business services","HI","Mar",0
+"1073","Idaho","Professional and business services","ID","Mar",0
+"1074","Illinois","Professional and business services","IL","Mar",-12
+"1075","Indiana","Professional and business services","IN","Mar",-1
+"1076","Iowa","Professional and business services","IA","Mar",-1
+"1077","Kansas","Professional and business services","KS","Mar",-2
+"1078","Kentucky","Professional and business services","KY","Mar",0
+"1079","Louisiana","Professional and business services","LA","Mar",-4
+"1080","Maine","Professional and business services","ME","Mar",-1
+"1081","Maryland","Professional and business services","MD","Mar",-5
+"1082","Massachusetts","Professional and business services","MA","Mar",2
+"1083","Michigan","Professional and business services","MI","Mar",-3
+"1084","Minnesota","Professional and business services","MN","Mar",-3
+"1085","Mississippi","Professional and business services","MS","Mar",1
+"1086","Missouri","Professional and business services","MO","Mar",-1
+"1087","Montana","Professional and business services","MT","Mar",0
+"1088","Nebraska","Professional and business services","NE","Mar",-1
+"1089","Nevada","Professional and business services","NV","Mar",-2
+"1090","New Hampshire","Professional and business services","NH","Mar",-1
+"1091","New Jersey","Professional and business services","NJ","Mar",-10
+"1092","New Mexico","Professional and business services","NM","Mar",-1
+"1093","New York","Professional and business services","NY","Mar",-2
+"1094","North Carolina","Professional and business services","NC","Mar",-2
+"1095","North Dakota","Professional and business services","ND","Mar",0
+"1096","Ohio","Professional and business services","OH","Mar",-4
+"1097","Oklahoma","Professional and business services","OK","Mar",-2
+"1098","Oregon","Professional and business services","OR","Mar",-1
+"1099","Pennsylvania","Professional and business services","PA","Mar",-6
+"1100","Puerto Rico","Professional and business services",NA,"Mar",-3
+"1101","Rhode Island","Professional and business services","RI","Mar",-1
+"1102","South Carolina","Professional and business services","SC","Mar",-1
+"1103","South Dakota","Professional and business services","SD","Mar",0
+"1104","Tennessee","Professional and business services","TN","Mar",0
+"1105","Texas","Professional and business services","TX","Mar",-7
+"1106","Utah","Professional and business services","UT","Mar",1
+"1107","Vermont","Professional and business services","VT","Mar",-1
+"1108","Virgin Islands","Professional and business services",NA,"Mar",NA
+"1109","Virginia","Professional and business services","VA","Mar",-3
+"1110","Washington","Professional and business services","WA","Mar",0
+"1111","West Virginia","Professional and business services","WV","Mar",0
+"1112","Wisconsin","Professional and business services","WI","Mar",-9
+"1113","Wyoming","Professional and business services","WY","Mar",-1
+"1114","Alabama","Professional and business services","AL","Apr",-32
+"1115","Alaska","Professional and business services","AK","Apr",-2
+"1116","Arizona","Professional and business services","AZ","Apr",-32
+"1117","Arkansas","Professional and business services","AR","Apr",-11
+"1118","California","Professional and business services","CA","Apr",-243
+"1119","Colorado","Professional and business services","CO","Apr",-28
+"1120","Connecticut","Professional and business services","CT","Apr",-26
+"1121","Delaware","Professional and business services","DE","Apr",-9
+"1122","District of Columbia","Professional and business services","DC","Apr",-5
+"1123","Florida","Professional and business services","FL","Apr",-127
+"1124","Georgia","Professional and business services","GA","Apr",-72
+"1125","Hawaii","Professional and business services","HI","Apr",-6
+"1126","Idaho","Professional and business services","ID","Apr",-6
+"1127","Illinois","Professional and business services","IL","Apr",-93
+"1128","Indiana","Professional and business services","IN","Apr",-40
+"1129","Iowa","Professional and business services","IA","Apr",-14
+"1130","Kansas","Professional and business services","KS","Apr",-11
+"1131","Kentucky","Professional and business services","KY","Apr",-36
+"1132","Louisiana","Professional and business services","LA","Apr",-17
+"1133","Maine","Professional and business services","ME","Apr",-5
+"1134","Maryland","Professional and business services","MD","Apr",-41
+"1135","Massachusetts","Professional and business services","MA","Apr",-46
+"1136","Michigan","Professional and business services","MI","Apr",-143
+"1137","Minnesota","Professional and business services","MN","Apr",-26
+"1138","Mississippi","Professional and business services","MS","Apr",-12
+"1139","Missouri","Professional and business services","MO","Apr",-30
+"1140","Montana","Professional and business services","MT","Apr",-3
+"1141","Nebraska","Professional and business services","NE","Apr",-8
+"1142","Nevada","Professional and business services","NV","Apr",-39
+"1143","New Hampshire","Professional and business services","NH","Apr",-8
+"1144","New Jersey","Professional and business services","NJ","Apr",-90
+"1145","New Mexico","Professional and business services","NM","Apr",-6
+"1146","New York","Professional and business services","NY","Apr",-212
+"1147","North Carolina","Professional and business services","NC","Apr",-55
+"1148","North Dakota","Professional and business services","ND","Apr",-1
+"1149","Ohio","Professional and business services","OH","Apr",-101
+"1150","Oklahoma","Professional and business services","OK","Apr",-21
+"1151","Oregon","Professional and business services","OR","Apr",-19
+"1152","Pennsylvania","Professional and business services","PA","Apr",-76
+"1153","Puerto Rico","Professional and business services",NA,"Apr",-12
+"1154","Rhode Island","Professional and business services","RI","Apr",-10
+"1155","South Carolina","Professional and business services","SC","Apr",-41
+"1156","South Dakota","Professional and business services","SD","Apr",-1
+"1157","Tennessee","Professional and business services","TN","Apr",-47
+"1158","Texas","Professional and business services","TX","Apr",-149
+"1159","Utah","Professional and business services","UT","Apr",-9
+"1160","Vermont","Professional and business services","VT","Apr",-5
+"1161","Virgin Islands","Professional and business services",NA,"Apr",NA
+"1162","Virginia","Professional and business services","VA","Apr",-44
+"1163","Washington","Professional and business services","WA","Apr",-36
+"1164","West Virginia","Professional and business services","WV","Apr",-5
+"1165","Wisconsin","Professional and business services","WI","Apr",-31
+"1166","Wyoming","Professional and business services","WY","Apr",0
+"1167","Alabama","Professional and business services","AL","May",4
+"1168","Alaska","Professional and business services","AK","May",1
+"1169","Arizona","Professional and business services","AZ","May",0
+"1170","Arkansas","Professional and business services","AR","May",2
+"1171","California","Professional and business services","CA","May",28
+"1172","Colorado","Professional and business services","CO","May",8
+"1173","Connecticut","Professional and business services","CT","May",2
+"1174","Delaware","Professional and business services","DE","May",2
+"1175","District of Columbia","Professional and business services","DC","May",-3
+"1176","Florida","Professional and business services","FL","May",9
+"1177","Georgia","Professional and business services","GA","May",19
+"1178","Hawaii","Professional and business services","HI","May",-2
+"1179","Idaho","Professional and business services","ID","May",1
+"1180","Illinois","Professional and business services","IL","May",24
+"1181","Indiana","Professional and business services","IN","May",6
+"1182","Iowa","Professional and business services","IA","May",3
+"1183","Kansas","Professional and business services","KS","May",2
+"1184","Kentucky","Professional and business services","KY","May",-8
+"1185","Louisiana","Professional and business services","LA","May",2
+"1186","Maine","Professional and business services","ME","May",2
+"1187","Maryland","Professional and business services","MD","May",7
+"1188","Massachusetts","Professional and business services","MA","May",4
+"1189","Michigan","Professional and business services","MI","May",19
+"1190","Minnesota","Professional and business services","MN","May",7
+"1191","Mississippi","Professional and business services","MS","May",4
+"1192","Missouri","Professional and business services","MO","May",-1
+"1193","Montana","Professional and business services","MT","May",1
+"1194","Nebraska","Professional and business services","NE","May",0
+"1195","Nevada","Professional and business services","NV","May",-3
+"1196","New Hampshire","Professional and business services","NH","May",0
+"1197","New Jersey","Professional and business services","NJ","May",9
+"1198","New Mexico","Professional and business services","NM","May",-2
+"1199","New York","Professional and business services","NY","May",-1
+"1200","North Carolina","Professional and business services","NC","May",12
+"1201","North Dakota","Professional and business services","ND","May",0
+"1202","Ohio","Professional and business services","OH","May",15
+"1203","Oklahoma","Professional and business services","OK","May",6
+"1204","Oregon","Professional and business services","OR","May",0
+"1205","Pennsylvania","Professional and business services","PA","May",-4
+"1206","Puerto Rico","Professional and business services",NA,"May",-5
+"1207","Rhode Island","Professional and business services","RI","May",3
+"1208","South Carolina","Professional and business services","SC","May",5
+"1209","South Dakota","Professional and business services","SD","May",0
+"1210","Tennessee","Professional and business services","TN","May",4
+"1211","Texas","Professional and business services","TX","May",24
+"1212","Utah","Professional and business services","UT","May",-2
+"1213","Vermont","Professional and business services","VT","May",2
+"1214","Virgin Islands","Professional and business services",NA,"May",NA
+"1215","Virginia","Professional and business services","VA","May",6
+"1216","Washington","Professional and business services","WA","May",8
+"1217","West Virginia","Professional and business services","WV","May",0
+"1218","Wisconsin","Professional and business services","WI","May",-1
+"1219","Wyoming","Professional and business services","WY","May",0
+"1220","Alabama","Professional and business services","AL","Jun",6
+"1221","Alaska","Professional and business services","AK","Jun",0
+"1222","Arizona","Professional and business services","AZ","Jun",4
+"1223","Arkansas","Professional and business services","AR","Jun",3
+"1224","California","Professional and business services","CA","Jun",31
+"1225","Colorado","Professional and business services","CO","Jun",4
+"1226","Connecticut","Professional and business services","CT","Jun",1
+"1227","Delaware","Professional and business services","DE","Jun",1
+"1228","District of Columbia","Professional and business services","DC","Jun",-2
+"1229","Florida","Professional and business services","FL","Jun",23
+"1230","Georgia","Professional and business services","GA","Jun",15
+"1231","Hawaii","Professional and business services","HI","Jun",2
+"1232","Idaho","Professional and business services","ID","Jun",1
+"1233","Illinois","Professional and business services","IL","Jun",9
+"1234","Indiana","Professional and business services","IN","Jun",14
+"1235","Iowa","Professional and business services","IA","Jun",2
+"1236","Kansas","Professional and business services","KS","Jun",4
+"1237","Kentucky","Professional and business services","KY","Jun",8
+"1238","Louisiana","Professional and business services","LA","Jun",6
+"1239","Maine","Professional and business services","ME","Jun",1
+"1240","Maryland","Professional and business services","MD","Jun",1
+"1241","Massachusetts","Professional and business services","MA","Jun",8
+"1242","Michigan","Professional and business services","MI","Jun",33
+"1243","Minnesota","Professional and business services","MN","Jun",4
+"1244","Mississippi","Professional and business services","MS","Jun",4
+"1245","Missouri","Professional and business services","MO","Jun",4
+"1246","Montana","Professional and business services","MT","Jun",0
+"1247","Nebraska","Professional and business services","NE","Jun",0
+"1248","Nevada","Professional and business services","NV","Jun",10
+"1249","New Hampshire","Professional and business services","NH","Jun",0
+"1250","New Jersey","Professional and business services","NJ","Jun",7
+"1251","New Mexico","Professional and business services","NM","Jun",1
+"1252","New York","Professional and business services","NY","Jun",14
+"1253","North Carolina","Professional and business services","NC","Jun",11
+"1254","North Dakota","Professional and business services","ND","Jun",0
+"1255","Ohio","Professional and business services","OH","Jun",10
+"1256","Oklahoma","Professional and business services","OK","Jun",4
+"1257","Oregon","Professional and business services","OR","Jun",2
+"1258","Pennsylvania","Professional and business services","PA","Jun",14
+"1259","Puerto Rico","Professional and business services",NA,"Jun",1
+"1260","Rhode Island","Professional and business services","RI","Jun",1
+"1261","South Carolina","Professional and business services","SC","Jun",14
+"1262","South Dakota","Professional and business services","SD","Jun",0
+"1263","Tennessee","Professional and business services","TN","Jun",8
+"1264","Texas","Professional and business services","TX","Jun",17
+"1265","Utah","Professional and business services","UT","Jun",0
+"1266","Vermont","Professional and business services","VT","Jun",0
+"1267","Virgin Islands","Professional and business services",NA,"Jun",NA
+"1268","Virginia","Professional and business services","VA","Jun",2
+"1269","Washington","Professional and business services","WA","Jun",5
+"1270","West Virginia","Professional and business services","WV","Jun",1
+"1271","Wisconsin","Professional and business services","WI","Jun",8
+"1272","Wyoming","Professional and business services","WY","Jun",0
+"1273","Alabama","Professional and business services","AL","Jul",1
+"1274","Alaska","Professional and business services","AK","Jul",-1
+"1275","Arizona","Professional and business services","AZ","Jul",-1
+"1276","Arkansas","Professional and business services","AR","Jul",0
+"1277","California","Professional and business services","CA","Jul",22
+"1278","Colorado","Professional and business services","CO","Jul",3
+"1279","Connecticut","Professional and business services","CT","Jul",5
+"1280","Delaware","Professional and business services","DE","Jul",-1
+"1281","District of Columbia","Professional and business services","DC","Jul",1
+"1282","Florida","Professional and business services","FL","Jul",19
+"1283","Georgia","Professional and business services","GA","Jul",4
+"1284","Hawaii","Professional and business services","HI","Jul",-1
+"1285","Idaho","Professional and business services","ID","Jul",1
+"1286","Illinois","Professional and business services","IL","Jul",7
+"1287","Indiana","Professional and business services","IN","Jul",14
+"1288","Iowa","Professional and business services","IA","Jul",4
+"1289","Kansas","Professional and business services","KS","Jul",1
+"1290","Kentucky","Professional and business services","KY","Jul",1
+"1291","Louisiana","Professional and business services","LA","Jul",-5
+"1292","Maine","Professional and business services","ME","Jul",-1
+"1293","Maryland","Professional and business services","MD","Jul",-3
+"1294","Massachusetts","Professional and business services","MA","Jul",-4
+"1295","Michigan","Professional and business services","MI","Jul",24
+"1296","Minnesota","Professional and business services","MN","Jul",-1
+"1297","Mississippi","Professional and business services","MS","Jul",3
+"1298","Missouri","Professional and business services","MO","Jul",5
+"1299","Montana","Professional and business services","MT","Jul",-1
+"1300","Nebraska","Professional and business services","NE","Jul",2
+"1301","Nevada","Professional and business services","NV","Jul",2
+"1302","New Hampshire","Professional and business services","NH","Jul",0
+"1303","New Jersey","Professional and business services","NJ","Jul",18
+"1304","New Mexico","Professional and business services","NM","Jul",-1
+"1305","New York","Professional and business services","NY","Jul",9
+"1306","North Carolina","Professional and business services","NC","Jul",5
+"1307","North Dakota","Professional and business services","ND","Jul",0
+"1308","Ohio","Professional and business services","OH","Jul",15
+"1309","Oklahoma","Professional and business services","OK","Jul",-2
+"1310","Oregon","Professional and business services","OR","Jul",2
+"1311","Pennsylvania","Professional and business services","PA","Jul",6
+"1312","Puerto Rico","Professional and business services",NA,"Jul",3
+"1313","Rhode Island","Professional and business services","RI","Jul",0
+"1314","South Carolina","Professional and business services","SC","Jul",5
+"1315","South Dakota","Professional and business services","SD","Jul",0
+"1316","Tennessee","Professional and business services","TN","Jul",6
+"1317","Texas","Professional and business services","TX","Jul",19
+"1318","Utah","Professional and business services","UT","Jul",3
+"1319","Vermont","Professional and business services","VT","Jul",1
+"1320","Virgin Islands","Professional and business services",NA,"Jul",NA
+"1321","Virginia","Professional and business services","VA","Jul",-6
+"1322","Washington","Professional and business services","WA","Jul",8
+"1323","West Virginia","Professional and business services","WV","Jul",0
+"1324","Wisconsin","Professional and business services","WI","Jul",2
+"1325","Wyoming","Professional and business services","WY","Jul",0
+"1326","Alabama","Education and health services","AL","Mar",-3
+"1327","Alaska","Education and health services","AK","Mar",-1
+"1328","Arizona","Education and health services","AZ","Mar",-3
+"1329","Arkansas","Education and health services","AR","Mar",-4
+"1330","California","Education and health services","CA","Mar",-26
+"1331","Colorado","Education and health services","CO","Mar",-3
+"1332","Connecticut","Education and health services","CT","Mar",-5
+"1333","Delaware","Education and health services","DE","Mar",-1
+"1334","District of Columbia","Education and health services","DC","Mar",-1
+"1335","Florida","Education and health services","FL","Mar",-6
+"1336","Georgia","Education and health services","GA","Mar",-4
+"1337","Hawaii","Education and health services","HI","Mar",0
+"1338","Idaho","Education and health services","ID","Mar",-2
+"1339","Illinois","Education and health services","IL","Mar",-4
+"1340","Indiana","Education and health services","IN","Mar",-2
+"1341","Iowa","Education and health services","IA","Mar",-1
+"1342","Kansas","Education and health services","KS","Mar",-2
+"1343","Kentucky","Education and health services","KY","Mar",-1
+"1344","Louisiana","Education and health services","LA","Mar",-9
+"1345","Maine","Education and health services","ME","Mar",-1
+"1346","Maryland","Education and health services","MD","Mar",-2
+"1347","Massachusetts","Education and health services","MA","Mar",-7
+"1348","Michigan","Education and health services","MI","Mar",-8
+"1349","Minnesota","Education and health services","MN","Mar",-4
+"1350","Mississippi","Education and health services","MS","Mar",-1
+"1351","Missouri","Education and health services","MO","Mar",-4
+"1352","Montana","Education and health services","MT","Mar",-1
+"1353","Nebraska","Education and health services","NE","Mar",0
+"1354","Nevada","Education and health services","NV","Mar",-1
+"1355","New Hampshire","Education and health services","NH","Mar",-2
+"1356","New Jersey","Education and health services","NJ","Mar",-10
+"1357","New Mexico","Education and health services","NM","Mar",-1
+"1358","New York","Education and health services","NY","Mar",-20
+"1359","North Carolina","Education and health services","NC","Mar",-4
+"1360","North Dakota","Education and health services","ND","Mar",0
+"1361","Ohio","Education and health services","OH","Mar",-8
+"1362","Oklahoma","Education and health services","OK","Mar",-1
+"1363","Oregon","Education and health services","OR","Mar",-2
+"1364","Pennsylvania","Education and health services","PA","Mar",-16
+"1365","Puerto Rico","Education and health services",NA,"Mar",-1
+"1366","Rhode Island","Education and health services","RI","Mar",-3
+"1367","South Carolina","Education and health services","SC","Mar",-2
+"1368","South Dakota","Education and health services","SD","Mar",-1
+"1369","Tennessee","Education and health services","TN","Mar",-2
+"1370","Texas","Education and health services","TX","Mar",-8
+"1371","Utah","Education and health services","UT","Mar",1
+"1372","Vermont","Education and health services","VT","Mar",0
+"1373","Virgin Islands","Education and health services",NA,"Mar",0
+"1374","Virginia","Education and health services","VA","Mar",-7
+"1375","Washington","Education and health services","WA","Mar",0
+"1376","West Virginia","Education and health services","WV","Mar",-1
+"1377","Wisconsin","Education and health services","WI","Mar",-3
+"1378","Wyoming","Education and health services","WY","Mar",0
+"1379","Alabama","Education and health services","AL","Apr",-27
+"1380","Alaska","Education and health services","AK","Apr",-4
+"1381","Arizona","Education and health services","AZ","Apr",-36
+"1382","Arkansas","Education and health services","AR","Apr",-19
+"1383","California","Education and health services","CA","Apr",-280
+"1384","Colorado","Education and health services","CO","Apr",-44
+"1385","Connecticut","Education and health services","CT","Apr",-45
+"1386","Delaware","Education and health services","DE","Apr",-13
+"1387","District of Columbia","Education and health services","DC","Apr",-8
+"1388","Florida","Education and health services","FL","Apr",-117
+"1389","Georgia","Education and health services","GA","Apr",-52
+"1390","Hawaii","Education and health services","HI","Apr",-5
+"1391","Idaho","Education and health services","ID","Apr",-14
+"1392","Illinois","Education and health services","IL","Apr",-87
+"1393","Indiana","Education and health services","IN","Apr",-54
+"1394","Iowa","Education and health services","IA","Apr",-18
+"1395","Kansas","Education and health services","KS","Apr",-20
+"1396","Kentucky","Education and health services","KY","Apr",-36
+"1397","Louisiana","Education and health services","LA","Apr",-29
+"1398","Maine","Education and health services","ME","Apr",-18
+"1399","Maryland","Education and health services","MD","Apr",-51
+"1400","Massachusetts","Education and health services","MA","Apr",-85
+"1401","Michigan","Education and health services","MI","Apr",-109
+"1402","Minnesota","Education and health services","MN","Apr",-54
+"1403","Mississippi","Education and health services","MS","Apr",-14
+"1404","Missouri","Education and health services","MO","Apr",-19
+"1405","Montana","Education and health services","MT","Apr",-6
+"1406","Nebraska","Education and health services","NE","Apr",-10
+"1407","Nevada","Education and health services","NV","Apr",-16
+"1408","New Hampshire","Education and health services","NH","Apr",-13
+"1409","New Jersey","Education and health services","NJ","Apr",-113
+"1410","New Mexico","Education and health services","NM","Apr",-13
+"1411","New York","Education and health services","NY","Apr",-243
+"1412","North Carolina","Education and health services","NC","Apr",-63
+"1413","North Dakota","Education and health services","ND","Apr",-4
+"1414","Ohio","Education and health services","OH","Apr",-99
+"1415","Oklahoma","Education and health services","OK","Apr",-11
+"1416","Oregon","Education and health services","OR","Apr",-31
+"1417","Pennsylvania","Education and health services","PA","Apr",-146
+"1418","Puerto Rico","Education and health services",NA,"Apr",-5
+"1419","Rhode Island","Education and health services","RI","Apr",-17
+"1420","South Carolina","Education and health services","SC","Apr",-29
+"1421","South Dakota","Education and health services","SD","Apr",-4
+"1422","Tennessee","Education and health services","TN","Apr",-35
+"1423","Texas","Education and health services","TX","Apr",-163
+"1424","Utah","Education and health services","UT","Apr",-14
+"1425","Vermont","Education and health services","VT","Apr",-9
+"1426","Virgin Islands","Education and health services",NA,"Apr",0
+"1427","Virginia","Education and health services","VA","Apr",-57
+"1428","Washington","Education and health services","WA","Apr",-67
+"1429","West Virginia","Education and health services","WV","Apr",-12
+"1430","Wisconsin","Education and health services","WI","Apr",-56
+"1431","Wyoming","Education and health services","WY","Apr",-2
+"1432","Alabama","Education and health services","AL","May",7
+"1433","Alaska","Education and health services","AK","May",-1
+"1434","Arizona","Education and health services","AZ","May",3
+"1435","Arkansas","Education and health services","AR","May",6
+"1436","California","Education and health services","CA","May",22
+"1437","Colorado","Education and health services","CO","May",20
+"1438","Connecticut","Education and health services","CT","May",6
+"1439","Delaware","Education and health services","DE","May",2
+"1440","District of Columbia","Education and health services","DC","May",1
+"1441","Florida","Education and health services","FL","May",33
+"1442","Georgia","Education and health services","GA","May",12
+"1443","Hawaii","Education and health services","HI","May",0
+"1444","Idaho","Education and health services","ID","May",8
+"1445","Illinois","Education and health services","IL","May",-5
+"1446","Indiana","Education and health services","IN","May",9
+"1447","Iowa","Education and health services","IA","May",-4
+"1448","Kansas","Education and health services","KS","May",5
+"1449","Kentucky","Education and health services","KY","May",2
+"1450","Louisiana","Education and health services","LA","May",7
+"1451","Maine","Education and health services","ME","May",1
+"1452","Maryland","Education and health services","MD","May",4
+"1453","Massachusetts","Education and health services","MA","May",-6
+"1454","Michigan","Education and health services","MI","May",12
+"1455","Minnesota","Education and health services","MN","May",1
+"1456","Mississippi","Education and health services","MS","May",1
+"1457","Missouri","Education and health services","MO","May",3
+"1458","Montana","Education and health services","MT","May",1
+"1459","Nebraska","Education and health services","NE","May",2
+"1460","Nevada","Education and health services","NV","May",0
+"1461","New Hampshire","Education and health services","NH","May",2
+"1462","New Jersey","Education and health services","NJ","May",-5
+"1463","New Mexico","Education and health services","NM","May",2
+"1464","New York","Education and health services","NY","May",-2
+"1465","North Carolina","Education and health services","NC","May",12
+"1466","North Dakota","Education and health services","ND","May",1
+"1467","Ohio","Education and health services","OH","May",3
+"1468","Oklahoma","Education and health services","OK","May",-1
+"1469","Oregon","Education and health services","OR","May",8
+"1470","Pennsylvania","Education and health services","PA","May",8
+"1471","Puerto Rico","Education and health services",NA,"May",-2
+"1472","Rhode Island","Education and health services","RI","May",2
+"1473","South Carolina","Education and health services","SC","May",9
+"1474","South Dakota","Education and health services","SD","May",-1
+"1475","Tennessee","Education and health services","TN","May",7
+"1476","Texas","Education and health services","TX","May",39
+"1477","Utah","Education and health services","UT","May",3
+"1478","Vermont","Education and health services","VT","May",2
+"1479","Virgin Islands","Education and health services",NA,"May",0
+"1480","Virginia","Education and health services","VA","May",3
+"1481","Washington","Education and health services","WA","May",6
+"1482","West Virginia","Education and health services","WV","May",2
+"1483","Wisconsin","Education and health services","WI","May",9
+"1484","Wyoming","Education and health services","WY","May",1
+"1485","Alabama","Education and health services","AL","Jun",4
+"1486","Alaska","Education and health services","AK","Jun",2
+"1487","Arizona","Education and health services","AZ","Jun",15
+"1488","Arkansas","Education and health services","AR","Jun",1
+"1489","California","Education and health services","CA","Jun",84
+"1490","Colorado","Education and health services","CO","Jun",0
+"1491","Connecticut","Education and health services","CT","Jun",16
+"1492","Delaware","Education and health services","DE","Jun",2
+"1493","District of Columbia","Education and health services","DC","Jun",1
+"1494","Florida","Education and health services","FL","Jun",20
+"1495","Georgia","Education and health services","GA","Jun",14
+"1496","Hawaii","Education and health services","HI","Jun",-1
+"1497","Idaho","Education and health services","ID","Jun",2
+"1498","Illinois","Education and health services","IL","Jun",24
+"1499","Indiana","Education and health services","IN","Jun",16
+"1500","Iowa","Education and health services","IA","Jun",9
+"1501","Kansas","Education and health services","KS","Jun",4
+"1502","Kentucky","Education and health services","KY","Jun",11
+"1503","Louisiana","Education and health services","LA","Jun",6
+"1504","Maine","Education and health services","ME","Jun",6
+"1505","Maryland","Education and health services","MD","Jun",8
+"1506","Massachusetts","Education and health services","MA","Jun",6
+"1507","Michigan","Education and health services","MI","Jun",36
+"1508","Minnesota","Education and health services","MN","Jun",17
+"1509","Mississippi","Education and health services","MS","Jun",5
+"1510","Missouri","Education and health services","MO","Jun",-3
+"1511","Montana","Education and health services","MT","Jun",3
+"1512","Nebraska","Education and health services","NE","Jun",2
+"1513","Nevada","Education and health services","NV","Jun",1
+"1514","New Hampshire","Education and health services","NH","Jun",9
+"1515","New Jersey","Education and health services","NJ","Jun",33
+"1516","New Mexico","Education and health services","NM","Jun",4
+"1517","New York","Education and health services","NY","Jun",56
+"1518","North Carolina","Education and health services","NC","Jun",19
+"1519","North Dakota","Education and health services","ND","Jun",0
+"1520","Ohio","Education and health services","OH","Jun",28
+"1521","Oklahoma","Education and health services","OK","Jun",1
+"1522","Oregon","Education and health services","OR","Jun",8
+"1523","Pennsylvania","Education and health services","PA","Jun",55
+"1524","Puerto Rico","Education and health services",NA,"Jun",0
+"1525","Rhode Island","Education and health services","RI","Jun",7
+"1526","South Carolina","Education and health services","SC","Jun",7
+"1527","South Dakota","Education and health services","SD","Jun",1
+"1528","Tennessee","Education and health services","TN","Jun",14
+"1529","Texas","Education and health services","TX","Jun",17
+"1530","Utah","Education and health services","UT","Jun",3
+"1531","Vermont","Education and health services","VT","Jun",5
+"1532","Virgin Islands","Education and health services",NA,"Jun",0
+"1533","Virginia","Education and health services","VA","Jun",9
+"1534","Washington","Education and health services","WA","Jun",19
+"1535","West Virginia","Education and health services","WV","Jun",4
+"1536","Wisconsin","Education and health services","WI","Jun",13
+"1537","Wyoming","Education and health services","WY","Jun",0
+"1538","Alabama","Education and health services","AL","Jul",-1
+"1539","Alaska","Education and health services","AK","Jul",0
+"1540","Arizona","Education and health services","AZ","Jul",1
+"1541","Arkansas","Education and health services","AR","Jul",2
+"1542","California","Education and health services","CA","Jul",19
+"1543","Colorado","Education and health services","CO","Jul",7
+"1544","Connecticut","Education and health services","CT","Jul",-3
+"1545","Delaware","Education and health services","DE","Jul",1
+"1546","District of Columbia","Education and health services","DC","Jul",1
+"1547","Florida","Education and health services","FL","Jul",14
+"1548","Georgia","Education and health services","GA","Jul",10
+"1549","Hawaii","Education and health services","HI","Jul",1
+"1550","Idaho","Education and health services","ID","Jul",2
+"1551","Illinois","Education and health services","IL","Jul",14
+"1552","Indiana","Education and health services","IN","Jul",4
+"1553","Iowa","Education and health services","IA","Jul",4
+"1554","Kansas","Education and health services","KS","Jul",4
+"1555","Kentucky","Education and health services","KY","Jul",9
+"1556","Louisiana","Education and health services","LA","Jul",2
+"1557","Maine","Education and health services","ME","Jul",1
+"1558","Maryland","Education and health services","MD","Jul",1
+"1559","Massachusetts","Education and health services","MA","Jul",6
+"1560","Michigan","Education and health services","MI","Jul",3
+"1561","Minnesota","Education and health services","MN","Jul",-3
+"1562","Mississippi","Education and health services","MS","Jul",0
+"1563","Missouri","Education and health services","MO","Jul",5
+"1564","Montana","Education and health services","MT","Jul",0
+"1565","Nebraska","Education and health services","NE","Jul",3
+"1566","Nevada","Education and health services","NV","Jul",7
+"1567","New Hampshire","Education and health services","NH","Jul",0
+"1568","New Jersey","Education and health services","NJ","Jul",13
+"1569","New Mexico","Education and health services","NM","Jul",0
+"1570","New York","Education and health services","NY","Jul",35
+"1571","North Carolina","Education and health services","NC","Jul",-2
+"1572","North Dakota","Education and health services","ND","Jul",0
+"1573","Ohio","Education and health services","OH","Jul",17
+"1574","Oklahoma","Education and health services","OK","Jul",3
+"1575","Oregon","Education and health services","OR","Jul",3
+"1576","Pennsylvania","Education and health services","PA","Jul",13
+"1577","Puerto Rico","Education and health services",NA,"Jul",2
+"1578","Rhode Island","Education and health services","RI","Jul",3
+"1579","South Carolina","Education and health services","SC","Jul",3
+"1580","South Dakota","Education and health services","SD","Jul",0
+"1581","Tennessee","Education and health services","TN","Jul",-3
+"1582","Texas","Education and health services","TX","Jul",17
+"1583","Utah","Education and health services","UT","Jul",-7
+"1584","Vermont","Education and health services","VT","Jul",-1
+"1585","Virgin Islands","Education and health services",NA,"Jul",0
+"1586","Virginia","Education and health services","VA","Jul",7
+"1587","Washington","Education and health services","WA","Jul",14
+"1588","West Virginia","Education and health services","WV","Jul",2
+"1589","Wisconsin","Education and health services","WI","Jul",10
+"1590","Wyoming","Education and health services","WY","Jul",0
+"1591","Alabama","Leisure and hospitality","AL","Mar",-4
+"1592","Alaska","Leisure and hospitality","AK","Mar",-3
+"1593","Arizona","Leisure and hospitality","AZ","Mar",-12
+"1594","Arkansas","Leisure and hospitality","AR","Mar",-4
+"1595","California","Leisure and hospitality","CA","Mar",-95
+"1596","Colorado","Leisure and hospitality","CO","Mar",-12
+"1597","Connecticut","Leisure and hospitality","CT","Mar",-13
+"1598","Delaware","Leisure and hospitality","DE","Mar",-3
+"1599","District of Columbia","Leisure and hospitality","DC","Mar",-3
+"1600","Florida","Leisure and hospitality","FL","Mar",-68
+"1601","Georgia","Leisure and hospitality","GA","Mar",-15
+"1602","Hawaii","Leisure and hospitality","HI","Mar",-1
+"1603","Idaho","Leisure and hospitality","ID","Mar",-3
+"1604","Illinois","Leisure and hospitality","IL","Mar",-28
+"1605","Indiana","Leisure and hospitality","IN","Mar",-11
+"1606","Iowa","Leisure and hospitality","IA","Mar",-4
+"1607","Kansas","Leisure and hospitality","KS","Mar",-6
+"1608","Kentucky","Leisure and hospitality","KY","Mar",-13
+"1609","Louisiana","Leisure and hospitality","LA","Mar",-16
+"1610","Maine","Leisure and hospitality","ME","Mar",-3
+"1611","Maryland","Leisure and hospitality","MD","Mar",-17
+"1612","Massachusetts","Leisure and hospitality","MA","Mar",-28
+"1613","Michigan","Leisure and hospitality","MI","Mar",-18
+"1614","Minnesota","Leisure and hospitality","MN","Mar",-11
+"1615","Mississippi","Leisure and hospitality","MS","Mar",-3
+"1616","Missouri","Leisure and hospitality","MO","Mar",-21
+"1617","Montana","Leisure and hospitality","MT","Mar",-1
+"1618","Nebraska","Leisure and hospitality","NE","Mar",-4
+"1619","Nevada","Leisure and hospitality","NV","Mar",-16
+"1620","New Hampshire","Leisure and hospitality","NH","Mar",-3
+"1621","New Jersey","Leisure and hospitality","NJ","Mar",-24
+"1622","New Mexico","Leisure and hospitality","NM","Mar",-2
+"1623","New York","Leisure and hospitality","NY","Mar",-65
+"1624","North Carolina","Leisure and hospitality","NC","Mar",-24
+"1625","North Dakota","Leisure and hospitality","ND","Mar",-1
+"1626","Ohio","Leisure and hospitality","OH","Mar",-34
+"1627","Oklahoma","Leisure and hospitality","OK","Mar",-8
+"1628","Oregon","Leisure and hospitality","OR","Mar",-9
+"1629","Pennsylvania","Leisure and hospitality","PA","Mar",-31
+"1630","Puerto Rico","Leisure and hospitality",NA,"Mar",0
+"1631","Rhode Island","Leisure and hospitality","RI","Mar",-5
+"1632","South Carolina","Leisure and hospitality","SC","Mar",-14
+"1633","South Dakota","Leisure and hospitality","SD","Mar",-2
+"1634","Tennessee","Leisure and hospitality","TN","Mar",-5
+"1635","Texas","Leisure and hospitality","TX","Mar",-58
+"1636","Utah","Leisure and hospitality","UT","Mar",-5
+"1637","Vermont","Leisure and hospitality","VT","Mar",-2
+"1638","Virgin Islands","Leisure and hospitality",NA,"Mar",-1
+"1639","Virginia","Leisure and hospitality","VA","Mar",-21
+"1640","Washington","Leisure and hospitality","WA","Mar",-19
+"1641","West Virginia","Leisure and hospitality","WV","Mar",-1
+"1642","Wisconsin","Leisure and hospitality","WI","Mar",-8
+"1643","Wyoming","Leisure and hospitality","WY","Mar",-1
+"1644","Alabama","Leisure and hospitality","AL","Apr",-84
+"1645","Alaska","Leisure and hospitality","AK","Apr",-17
+"1646","Arizona","Leisure and hospitality","AZ","Apr",-124
+"1647","Arkansas","Leisure and hospitality","AR","Apr",-36
+"1648","California","Leisure and hospitality","CA","Apr",-866
+"1649","Colorado","Leisure and hospitality","CO","Apr",-148
+"1650","Connecticut","Leisure and hospitality","CT","Apr",-73
+"1651","Delaware","Leisure and hospitality","DE","Apr",-27
+"1652","District of Columbia","Leisure and hospitality","DC","Apr",-44
+"1653","Florida","Leisure and hospitality","FL","Apr",-480
+"1654","Georgia","Leisure and hospitality","GA","Apr",-206
+"1655","Hawaii","Leisure and hospitality","HI","Apr",-70
+"1656","Idaho","Leisure and hospitality","ID","Apr",-34
+"1657","Illinois","Leisure and hospitality","IL","Apr",-295
+"1658","Indiana","Leisure and hospitality","IN","Apr",-116
+"1659","Iowa","Leisure and hospitality","IA","Apr",-68
+"1660","Kansas","Leisure and hospitality","KS","Apr",-50
+"1661","Kentucky","Leisure and hospitality","KY","Apr",-82
+"1662","Louisiana","Leisure and hospitality","LA","Apr",-99
+"1663","Maine","Leisure and hospitality","ME","Apr",-40
+"1664","Maryland","Leisure and hospitality","MD","Apr",-120
+"1665","Massachusetts","Leisure and hospitality","MA","Apr",-216
+"1666","Michigan","Leisure and hospitality","MI","Apr",-237
+"1667","Minnesota","Leisure and hospitality","MN","Apr",-146
+"1668","Mississippi","Leisure and hospitality","MS","Apr",-53
+"1669","Missouri","Leisure and hospitality","MO","Apr",-134
+"1670","Montana","Leisure and hospitality","MT","Apr",-32
+"1671","Nebraska","Leisure and hospitality","NE","Apr",-33
+"1672","Nevada","Leisure and hospitality","NV","Apr",-122
+"1673","New Hampshire","Leisure and hospitality","NH","Apr",-42
+"1674","New Jersey","Leisure and hospitality","NJ","Apr",-237
+"1675","New Mexico","Leisure and hospitality","NM","Apr",-40
+"1676","New York","Leisure and hospitality","NY","Apr",-578
+"1677","North Carolina","Leisure and hospitality","NC","Apr",-250
+"1678","North Dakota","Leisure and hospitality","ND","Apr",-21
+"1679","Ohio","Leisure and hospitality","OH","Apr",-263
+"1680","Oklahoma","Leisure and hospitality","OK","Apr",-50
+"1681","Oregon","Leisure and hospitality","OR","Apr",-113
+"1682","Pennsylvania","Leisure and hospitality","PA","Apr",-323
+"1683","Puerto Rico","Leisure and hospitality",NA,"Apr",-34
+"1684","Rhode Island","Leisure and hospitality","RI","Apr",-34
+"1685","South Carolina","Leisure and hospitality","SC","Apr",-126
+"1686","South Dakota","Leisure and hospitality","SD","Apr",-18
+"1687","Tennessee","Leisure and hospitality","TN","Apr",-158
+"1688","Texas","Leisure and hospitality","TX","Apr",-531
+"1689","Utah","Leisure and hospitality","UT","Apr",-71
+"1690","Vermont","Leisure and hospitality","VT","Apr",-20
+"1691","Virgin Islands","Leisure and hospitality",NA,"Apr",-1
+"1692","Virginia","Leisure and hospitality","VA","Apr",-161
+"1693","Washington","Leisure and hospitality","WA","Apr",-177
+"1694","West Virginia","Leisure and hospitality","WV","Apr",-38
+"1695","Wisconsin","Leisure and hospitality","WI","Apr",-157
+"1696","Wyoming","Leisure and hospitality","WY","Apr",-12
+"1697","Alabama","Leisure and hospitality","AL","May",23
+"1698","Alaska","Leisure and hospitality","AK","May",5
+"1699","Arizona","Leisure and hospitality","AZ","May",37
+"1700","Arkansas","Leisure and hospitality","AR","May",11
+"1701","California","Leisure and hospitality","CA","May",37
+"1702","Colorado","Leisure and hospitality","CO","May",33
+"1703","Connecticut","Leisure and hospitality","CT","May",10
+"1704","Delaware","Leisure and hospitality","DE","May",2
+"1705","District of Columbia","Leisure and hospitality","DC","May",-1
+"1706","Florida","Leisure and hospitality","FL","May",80
+"1707","Georgia","Leisure and hospitality","GA","May",48
+"1708","Hawaii","Leisure and hospitality","HI","May",-5
+"1709","Idaho","Leisure and hospitality","ID","May",10
+"1710","Illinois","Leisure and hospitality","IL","May",41
+"1711","Indiana","Leisure and hospitality","IN","May",36
+"1712","Iowa","Leisure and hospitality","IA","May",11
+"1713","Kansas","Leisure and hospitality","KS","May",15
+"1714","Kentucky","Leisure and hospitality","KY","May",21
+"1715","Louisiana","Leisure and hospitality","LA","May",21
+"1716","Maine","Leisure and hospitality","ME","May",8
+"1717","Maryland","Leisure and hospitality","MD","May",8
+"1718","Massachusetts","Leisure and hospitality","MA","May",19
+"1719","Michigan","Leisure and hospitality","MI","May",13
+"1720","Minnesota","Leisure and hospitality","MN","May",19
+"1721","Mississippi","Leisure and hospitality","MS","May",21
+"1722","Missouri","Leisure and hospitality","MO","May",39
+"1723","Montana","Leisure and hospitality","MT","May",15
+"1724","Nebraska","Leisure and hospitality","NE","May",8
+"1725","Nevada","Leisure and hospitality","NV","May",5
+"1726","New Hampshire","Leisure and hospitality","NH","May",9
+"1727","New Jersey","Leisure and hospitality","NJ","May",32
+"1728","New Mexico","Leisure and hospitality","NM","May",7
+"1729","New York","Leisure and hospitality","NY","May",46
+"1730","North Carolina","Leisure and hospitality","NC","May",47
+"1731","North Dakota","Leisure and hospitality","ND","May",8
+"1732","Ohio","Leisure and hospitality","OH","May",34
+"1733","Oklahoma","Leisure and hospitality","OK","May",29
+"1734","Oregon","Leisure and hospitality","OR","May",17
+"1735","Pennsylvania","Leisure and hospitality","PA","May",55
+"1736","Puerto Rico","Leisure and hospitality",NA,"May",1
+"1737","Rhode Island","Leisure and hospitality","RI","May",6
+"1738","South Carolina","Leisure and hospitality","SC","May",35
+"1739","South Dakota","Leisure and hospitality","SD","May",6
+"1740","Tennessee","Leisure and hospitality","TN","May",58
+"1741","Texas","Leisure and hospitality","TX","May",187
+"1742","Utah","Leisure and hospitality","UT","May",26
+"1743","Vermont","Leisure and hospitality","VT","May",3
+"1744","Virgin Islands","Leisure and hospitality",NA,"May",0
+"1745","Virginia","Leisure and hospitality","VA","May",21
+"1746","Washington","Leisure and hospitality","WA","May",29
+"1747","West Virginia","Leisure and hospitality","WV","May",8
+"1748","Wisconsin","Leisure and hospitality","WI","May",29
+"1749","Wyoming","Leisure and hospitality","WY","May",3
+"1750","Alabama","Leisure and hospitality","AL","Jun",22
+"1751","Alaska","Leisure and hospitality","AK","Jun",2
+"1752","Arizona","Leisure and hospitality","AZ","Jun",41
+"1753","Arkansas","Leisure and hospitality","AR","Jun",8
+"1754","California","Leisure and hospitality","CA","Jun",292
+"1755","Colorado","Leisure and hospitality","CO","Jun",40
+"1756","Connecticut","Leisure and hospitality","CT","Jun",22
+"1757","Delaware","Leisure and hospitality","DE","Jun",11
+"1758","District of Columbia","Leisure and hospitality","DC","Jun",9
+"1759","Florida","Leisure and hospitality","FL","Jun",170
+"1760","Georgia","Leisure and hospitality","GA","Jun",70
+"1761","Hawaii","Leisure and hospitality","HI","Jun",15
+"1762","Idaho","Leisure and hospitality","ID","Jun",14
+"1763","Illinois","Leisure and hospitality","IL","Jun",58
+"1764","Indiana","Leisure and hospitality","IN","Jun",47
+"1765","Iowa","Leisure and hospitality","IA","Jun",23
+"1766","Kansas","Leisure and hospitality","KS","Jun",15
+"1767","Kentucky","Leisure and hospitality","KY","Jun",33
+"1768","Louisiana","Leisure and hospitality","LA","Jun",32
+"1769","Maine","Leisure and hospitality","ME","Jun",6
+"1770","Maryland","Leisure and hospitality","MD","Jun",23
+"1771","Massachusetts","Leisure and hospitality","MA","Jun",29
+"1772","Michigan","Leisure and hospitality","MI","Jun",51
+"1773","Minnesota","Leisure and hospitality","MN","Jun",35
+"1774","Mississippi","Leisure and hospitality","MS","Jun",15
+"1775","Missouri","Leisure and hospitality","MO","Jun",36
+"1776","Montana","Leisure and hospitality","MT","Jun",6
+"1777","Nebraska","Leisure and hospitality","NE","Jun",6
+"1778","Nevada","Leisure and hospitality","NV","Jun",73
+"1779","New Hampshire","Leisure and hospitality","NH","Jun",8
+"1780","New Jersey","Leisure and hospitality","NJ","Jun",36
+"1781","New Mexico","Leisure and hospitality","NM","Jun",11
+"1782","New York","Leisure and hospitality","NY","Jun",86
+"1783","North Carolina","Leisure and hospitality","NC","Jun",69
+"1784","North Dakota","Leisure and hospitality","ND","Jun",4
+"1785","Ohio","Leisure and hospitality","OH","Jun",83
+"1786","Oklahoma","Leisure and hospitality","OK","Jun",15
+"1787","Oregon","Leisure and hospitality","OR","Jun",31
+"1788","Pennsylvania","Leisure and hospitality","PA","Jun",77
+"1789","Puerto Rico","Leisure and hospitality",NA,"Jun",10
+"1790","Rhode Island","Leisure and hospitality","RI","Jun",10
+"1791","South Carolina","Leisure and hospitality","SC","Jun",29
+"1792","South Dakota","Leisure and hospitality","SD","Jun",5
+"1793","Tennessee","Leisure and hospitality","TN","Jun",39
+"1794","Texas","Leisure and hospitality","TX","Jun",143
+"1795","Utah","Leisure and hospitality","UT","Jun",10
+"1796","Vermont","Leisure and hospitality","VT","Jun",1
+"1797","Virgin Islands","Leisure and hospitality",NA,"Jun",0
+"1798","Virginia","Leisure and hospitality","VA","Jun",30
+"1799","Washington","Leisure and hospitality","WA","Jun",26
+"1800","West Virginia","Leisure and hospitality","WV","Jun",12
+"1801","Wisconsin","Leisure and hospitality","WI","Jun",47
+"1802","Wyoming","Leisure and hospitality","WY","Jun",1
+"1803","Alabama","Leisure and hospitality","AL","Jul",7
+"1804","Alaska","Leisure and hospitality","AK","Jul",0
+"1805","Arizona","Leisure and hospitality","AZ","Jul",-13
+"1806","Arkansas","Leisure and hospitality","AR","Jul",3
+"1807","California","Leisure and hospitality","CA","Jul",-11
+"1808","Colorado","Leisure and hospitality","CO","Jul",11
+"1809","Connecticut","Leisure and hospitality","CT","Jul",12
+"1810","Delaware","Leisure and hospitality","DE","Jul",4
+"1811","District of Columbia","Leisure and hospitality","DC","Jul",4
+"1812","Florida","Leisure and hospitality","FL","Jul",19
+"1813","Georgia","Leisure and hospitality","GA","Jul",17
+"1814","Hawaii","Leisure and hospitality","HI","Jul",-5
+"1815","Idaho","Leisure and hospitality","ID","Jul",3
+"1816","Illinois","Leisure and hospitality","IL","Jul",60
+"1817","Indiana","Leisure and hospitality","IN","Jul",22
+"1818","Iowa","Leisure and hospitality","IA","Jul",5
+"1819","Kansas","Leisure and hospitality","KS","Jul",6
+"1820","Kentucky","Leisure and hospitality","KY","Jul",15
+"1821","Louisiana","Leisure and hospitality","LA","Jul",7
+"1822","Maine","Leisure and hospitality","ME","Jul",6
+"1823","Maryland","Leisure and hospitality","MD","Jul",28
+"1824","Massachusetts","Leisure and hospitality","MA","Jul",36
+"1825","Michigan","Leisure and hospitality","MI","Jul",26
+"1826","Minnesota","Leisure and hospitality","MN","Jul",16
+"1827","Mississippi","Leisure and hospitality","MS","Jul",8
+"1828","Missouri","Leisure and hospitality","MO","Jul",18
+"1829","Montana","Leisure and hospitality","MT","Jul",1
+"1830","Nebraska","Leisure and hospitality","NE","Jul",4
+"1831","Nevada","Leisure and hospitality","NV","Jul",6
+"1832","New Hampshire","Leisure and hospitality","NH","Jul",5
+"1833","New Jersey","Leisure and hospitality","NJ","Jul",45
+"1834","New Mexico","Leisure and hospitality","NM","Jul",0
+"1835","New York","Leisure and hospitality","NY","Jul",83
+"1836","North Carolina","Leisure and hospitality","NC","Jul",8
+"1837","North Dakota","Leisure and hospitality","ND","Jul",3
+"1838","Ohio","Leisure and hospitality","OH","Jul",23
+"1839","Oklahoma","Leisure and hospitality","OK","Jul",2
+"1840","Oregon","Leisure and hospitality","OR","Jul",11
+"1841","Pennsylvania","Leisure and hospitality","PA","Jul",48
+"1842","Puerto Rico","Leisure and hospitality",NA,"Jul",0
+"1843","Rhode Island","Leisure and hospitality","RI","Jul",7
+"1844","South Carolina","Leisure and hospitality","SC","Jul",7
+"1845","South Dakota","Leisure and hospitality","SD","Jul",3
+"1846","Tennessee","Leisure and hospitality","TN","Jul",7
+"1847","Texas","Leisure and hospitality","TX","Jul",-22
+"1848","Utah","Leisure and hospitality","UT","Jul",2
+"1849","Vermont","Leisure and hospitality","VT","Jul",1
+"1850","Virgin Islands","Leisure and hospitality",NA,"Jul",1
+"1851","Virginia","Leisure and hospitality","VA","Jul",26
+"1852","Washington","Leisure and hospitality","WA","Jul",28
+"1853","West Virginia","Leisure and hospitality","WV","Jul",2
+"1854","Wisconsin","Leisure and hospitality","WI","Jul",6
+"1855","Wyoming","Leisure and hospitality","WY","Jul",1
+"1856","Alabama","Government","AL","Mar",1
+"1857","Alaska","Government","AK","Mar",0
+"1858","Arizona","Government","AZ","Mar",-1
+"1859","Arkansas","Government","AR","Mar",0
+"1860","California","Government","CA","Mar",2
+"1861","Colorado","Government","CO","Mar",3
+"1862","Connecticut","Government","CT","Mar",-2
+"1863","Delaware","Government","DE","Mar",0
+"1864","District of Columbia","Government","DC","Mar",0
+"1865","Florida","Government","FL","Mar",1
+"1866","Georgia","Government","GA","Mar",-2
+"1867","Hawaii","Government","HI","Mar",0
+"1868","Idaho","Government","ID","Mar",0
+"1869","Illinois","Government","IL","Mar",1
+"1870","Indiana","Government","IN","Mar",-2
+"1871","Iowa","Government","IA","Mar",0
+"1872","Kansas","Government","KS","Mar",1
+"1873","Kentucky","Government","KY","Mar",-1
+"1874","Louisiana","Government","LA","Mar",0
+"1875","Maine","Government","ME","Mar",-1
+"1876","Maryland","Government","MD","Mar",0
+"1877","Massachusetts","Government","MA","Mar",1
+"1878","Michigan","Government","MI","Mar",0
+"1879","Minnesota","Government","MN","Mar",-1
+"1880","Mississippi","Government","MS","Mar",-3
+"1881","Missouri","Government","MO","Mar",-1
+"1882","Montana","Government","MT","Mar",1
+"1883","Nebraska","Government","NE","Mar",0
+"1884","Nevada","Government","NV","Mar",0
+"1885","New Hampshire","Government","NH","Mar",-2
+"1886","New Jersey","Government","NJ","Mar",-21
+"1887","New Mexico","Government","NM","Mar",0
+"1888","New York","Government","NY","Mar",2
+"1889","North Carolina","Government","NC","Mar",0
+"1890","North Dakota","Government","ND","Mar",1
+"1891","Ohio","Government","OH","Mar",0
+"1892","Oklahoma","Government","OK","Mar",0
+"1893","Oregon","Government","OR","Mar",-1
+"1894","Pennsylvania","Government","PA","Mar",-2
+"1895","Puerto Rico","Government",NA,"Mar",6
+"1896","Rhode Island","Government","RI","Mar",-1
+"1897","South Carolina","Government","SC","Mar",1
+"1898","South Dakota","Government","SD","Mar",0
+"1899","Tennessee","Government","TN","Mar",0
+"1900","Texas","Government","TX","Mar",2
+"1901","Utah","Government","UT","Mar",0
+"1902","Vermont","Government","VT","Mar",0
+"1903","Virgin Islands","Government",NA,"Mar",0
+"1904","Virginia","Government","VA","Mar",0
+"1905","Washington","Government","WA","Mar",0
+"1906","West Virginia","Government","WV","Mar",0
+"1907","Wisconsin","Government","WI","Mar",-1
+"1908","Wyoming","Government","WY","Mar",0
+"1909","Alabama","Government","AL","Apr",-7
+"1910","Alaska","Government","AK","Apr",-6
+"1911","Arizona","Government","AZ","Apr",-11
+"1912","Arkansas","Government","AR","Apr",-6
+"1913","California","Government","CA","Apr",-102
+"1914","Colorado","Government","CO","Apr",-12
+"1915","Connecticut","Government","CT","Apr",-20
+"1916","Delaware","Government","DE","Apr",-2
+"1917","District of Columbia","Government","DC","Apr",0
+"1918","Florida","Government","FL","Apr",-31
+"1919","Georgia","Government","GA","Apr",-16
+"1920","Hawaii","Government","HI","Apr",-13
+"1921","Idaho","Government","ID","Apr",-5
+"1922","Illinois","Government","IL","Apr",-49
+"1923","Indiana","Government","IN","Apr",-22
+"1924","Iowa","Government","IA","Apr",-25
+"1925","Kansas","Government","KS","Apr",-9
+"1926","Kentucky","Government","KY","Apr",-16
+"1927","Louisiana","Government","LA","Apr",-10
+"1928","Maine","Government","ME","Apr",-5
+"1929","Maryland","Government","MD","Apr",-12
+"1930","Massachusetts","Government","MA","Apr",-26
+"1931","Michigan","Government","MI","Apr",-34
+"1932","Minnesota","Government","MN","Apr",-25
+"1933","Mississippi","Government","MS","Apr",-5
+"1934","Missouri","Government","MO","Apr",-13
+"1935","Montana","Government","MT","Apr",-4
+"1936","Nebraska","Government","NE","Apr",-6
+"1937","Nevada","Government","NV","Apr",-9
+"1938","New Hampshire","Government","NH","Apr",-6
+"1939","New Jersey","Government","NJ","Apr",-7
+"1940","New Mexico","Government","NM","Apr",-6
+"1941","New York","Government","NY","Apr",-63
+"1942","North Carolina","Government","NC","Apr",-26
+"1943","North Dakota","Government","ND","Apr",-5
+"1944","Ohio","Government","OH","Apr",-42
+"1945","Oklahoma","Government","OK","Apr",-10
+"1946","Oregon","Government","OR","Apr",-13
+"1947","Pennsylvania","Government","PA","Apr",-19
+"1948","Puerto Rico","Government",NA,"Apr",-4
+"1949","Rhode Island","Government","RI","Apr",-1
+"1950","South Carolina","Government","SC","Apr",-17
+"1951","South Dakota","Government","SD","Apr",-6
+"1952","Tennessee","Government","TN","Apr",-13
+"1953","Texas","Government","TX","Apr",-39
+"1954","Utah","Government","UT","Apr",-7
+"1955","Vermont","Government","VT","Apr",-2
+"1956","Virgin Islands","Government",NA,"Apr",0
+"1957","Virginia","Government","VA","Apr",-31
+"1958","Washington","Government","WA","Apr",-28
+"1959","West Virginia","Government","WV","Apr",-9
+"1960","Wisconsin","Government","WI","Apr",-54
+"1961","Wyoming","Government","WY","Apr",-1
+"1962","Alabama","Government","AL","May",-12
+"1963","Alaska","Government","AK","May",-1
+"1964","Arizona","Government","AZ","May",-4
+"1965","Arkansas","Government","AR","May",-4
+"1966","California","Government","CA","May",-90
+"1967","Colorado","Government","CO","May",-13
+"1968","Connecticut","Government","CT","May",-7
+"1969","Delaware","Government","DE","May",-2
+"1970","District of Columbia","Government","DC","May",0
+"1971","Florida","Government","FL","May",6
+"1972","Georgia","Government","GA","May",-10
+"1973","Hawaii","Government","HI","May",-2
+"1974","Idaho","Government","ID","May",-5
+"1975","Illinois","Government","IL","May",-12
+"1976","Indiana","Government","IN","May",-2
+"1977","Iowa","Government","IA","May",-3
+"1978","Kansas","Government","KS","May",-5
+"1979","Kentucky","Government","KY","May",-12
+"1980","Louisiana","Government","LA","May",-5
+"1981","Maine","Government","ME","May",-3
+"1982","Maryland","Government","MD","May",-10
+"1983","Massachusetts","Government","MA","May",-11
+"1984","Michigan","Government","MI","May",-18
+"1985","Minnesota","Government","MN","May",-15
+"1986","Mississippi","Government","MS","May",-5
+"1987","Missouri","Government","MO","May",-15
+"1988","Montana","Government","MT","May",-3
+"1989","Nebraska","Government","NE","May",-8
+"1990","Nevada","Government","NV","May",0
+"1991","New Hampshire","Government","NH","May",-1
+"1992","New Jersey","Government","NJ","May",-4
+"1993","New Mexico","Government","NM","May",0
+"1994","New York","Government","NY","May",-26
+"1995","North Carolina","Government","NC","May",-35
+"1996","North Dakota","Government","ND","May",-3
+"1997","Ohio","Government","OH","May",-29
+"1998","Oklahoma","Government","OK","May",-11
+"1999","Oregon","Government","OR","May",-9
+"2000","Pennsylvania","Government","PA","May",-7
+"2001","Puerto Rico","Government",NA,"May",-2
+"2002","Rhode Island","Government","RI","May",0
+"2003","South Carolina","Government","SC","May",-4
+"2004","South Dakota","Government","SD","May",-2
+"2005","Tennessee","Government","TN","May",-7
+"2006","Texas","Government","TX","May",-52
+"2007","Utah","Government","UT","May",-12
+"2008","Vermont","Government","VT","May",-2
+"2009","Virgin Islands","Government",NA,"May",0
+"2010","Virginia","Government","VA","May",-18
+"2011","Washington","Government","WA","May",-21
+"2012","West Virginia","Government","WV","May",-3
+"2013","Wisconsin","Government","WI","May",3
+"2014","Wyoming","Government","WY","May",-2
+"2015","Alabama","Government","AL","Jun",-5
+"2016","Alaska","Government","AK","Jun",0
+"2017","Arizona","Government","AZ","Jun",-5
+"2018","Arkansas","Government","AR","Jun",3
+"2019","California","Government","CA","Jun",-37
+"2020","Colorado","Government","CO","Jun",-3
+"2021","Connecticut","Government","CT","Jun",5
+"2022","Delaware","Government","DE","Jun",0
+"2023","District of Columbia","Government","DC","Jun",1
+"2024","Florida","Government","FL","Jun",3
+"2025","Georgia","Government","GA","Jun",4
+"2026","Hawaii","Government","HI","Jun",4
+"2027","Idaho","Government","ID","Jun",1
+"2028","Illinois","Government","IL","Jun",-19
+"2029","Indiana","Government","IN","Jun",0
+"2030","Iowa","Government","IA","Jun",6
+"2031","Kansas","Government","KS","Jun",0
+"2032","Kentucky","Government","KY","Jun",0
+"2033","Louisiana","Government","LA","Jun",1
+"2034","Maine","Government","ME","Jun",-1
+"2035","Maryland","Government","MD","Jun",6
+"2036","Massachusetts","Government","MA","Jun",-13
+"2037","Michigan","Government","MI","Jun",3
+"2038","Minnesota","Government","MN","Jun",0
+"2039","Mississippi","Government","MS","Jun",0
+"2040","Missouri","Government","MO","Jun",0
+"2041","Montana","Government","MT","Jun",4
+"2042","Nebraska","Government","NE","Jun",2
+"2043","Nevada","Government","NV","Jun",2
+"2044","New Hampshire","Government","NH","Jun",2
+"2045","New Jersey","Government","NJ","Jun",-3
+"2046","New Mexico","Government","NM","Jun",1
+"2047","New York","Government","NY","Jun",6
+"2048","North Carolina","Government","NC","Jun",21
+"2049","North Dakota","Government","ND","Jun",2
+"2050","Ohio","Government","OH","Jun",13
+"2051","Oklahoma","Government","OK","Jun",1
+"2052","Oregon","Government","OR","Jun",-1
+"2053","Pennsylvania","Government","PA","Jun",-1
+"2054","Puerto Rico","Government",NA,"Jun",0
+"2055","Rhode Island","Government","RI","Jun",-3
+"2056","South Carolina","Government","SC","Jun",0
+"2057","South Dakota","Government","SD","Jun",1
+"2058","Tennessee","Government","TN","Jun",22
+"2059","Texas","Government","TX","Jun",-19
+"2060","Utah","Government","UT","Jun",8
+"2061","Vermont","Government","VT","Jun",1
+"2062","Virgin Islands","Government",NA,"Jun",0
+"2063","Virginia","Government","VA","Jun",-5
+"2064","Washington","Government","WA","Jun",1
+"2065","West Virginia","Government","WV","Jun",11
+"2066","Wisconsin","Government","WI","Jun",6
+"2067","Wyoming","Government","WY","Jun",1
+"2068","Alabama","Government","AL","Jul",9
+"2069","Alaska","Government","AK","Jul",2
+"2070","Arizona","Government","AZ","Jul",15
+"2071","Arkansas","Government","AR","Jul",-2
+"2072","California","Government","CA","Jul",34
+"2073","Colorado","Government","CO","Jul",-19
+"2074","Connecticut","Government","CT","Jul",3
+"2075","Delaware","Government","DE","Jul",1
+"2076","District of Columbia","Government","DC","Jul",-1
+"2077","Florida","Government","FL","Jul",5
+"2078","Georgia","Government","GA","Jul",14
+"2079","Hawaii","Government","HI","Jul",7
+"2080","Idaho","Government","ID","Jul",6
+"2081","Illinois","Government","IL","Jul",8
+"2082","Indiana","Government","IN","Jul",2
+"2083","Iowa","Government","IA","Jul",10
+"2084","Kansas","Government","KS","Jul",1
+"2085","Kentucky","Government","KY","Jul",-1
+"2086","Louisiana","Government","LA","Jul",9
+"2087","Maine","Government","ME","Jul",6
+"2088","Maryland","Government","MD","Jul",11
+"2089","Massachusetts","Government","MA","Jul",22
+"2090","Michigan","Government","MI","Jul",3
+"2091","Minnesota","Government","MN","Jul",5
+"2092","Mississippi","Government","MS","Jul",3
+"2093","Missouri","Government","MO","Jul",26
+"2094","Montana","Government","MT","Jul",1
+"2095","Nebraska","Government","NE","Jul",3
+"2096","Nevada","Government","NV","Jul",-3
+"2097","New Hampshire","Government","NH","Jul",1
+"2098","New Jersey","Government","NJ","Jul",-18
+"2099","New Mexico","Government","NM","Jul",-4
+"2100","New York","Government","NY","Jul",-74
+"2101","North Carolina","Government","NC","Jul",40
+"2102","North Dakota","Government","ND","Jul",1
+"2103","Ohio","Government","OH","Jul",1
+"2104","Oklahoma","Government","OK","Jul",9
+"2105","Oregon","Government","OR","Jul",4
+"2106","Pennsylvania","Government","PA","Jul",14
+"2107","Puerto Rico","Government",NA,"Jul",-7
+"2108","Rhode Island","Government","RI","Jul",2
+"2109","South Carolina","Government","SC","Jul",1
+"2110","South Dakota","Government","SD","Jul",2
+"2111","Tennessee","Government","TN","Jul",-23
+"2112","Texas","Government","TX","Jul",47
+"2113","Utah","Government","UT","Jul",10
+"2114","Vermont","Government","VT","Jul",2
+"2115","Virgin Islands","Government",NA,"Jul",-1
+"2116","Virginia","Government","VA","Jul",-8
+"2117","Washington","Government","WA","Jul",11
+"2118","West Virginia","Government","WV","Jul",-6
+"2119","Wisconsin","Government","WI","Jul",3
+"2120","Wyoming","Government","WY","Jul",2
